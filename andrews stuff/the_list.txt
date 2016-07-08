@@ -1,0 +1,2233 @@
+Posterior commissure_FJ1799.obj
+Right transverse cervical artery_FJ2309.obj
+Proximal part of ileum_FJ2600.obj
+Lip_FJ2814.obj
+Left lacrimal sac_FJ1309.obj
+Medial segmental bronchial tree_FJ2507.obj
+Left posterior circumflex humeral artery_FJ2239.obj
+Left sartorius_FJ1434M.obj
+Left lateral basal segmental bronchial tree_FJ2445.obj
+Posterior division of right renal artery_FJ3575.obj
+Middle part of ileum_FJ2582.obj
+Left epididymis_FJ3136.obj
+Middle cardiac vein_FJ2688.obj
+Left flexor pollicis brevis_FJ1469.obj
+Right superior segmental vein_FJ3066.obj
+Left lower central secondary incisor tooth_FJ1258.obj
+Middle cardiac vein_FJ2685.obj
+Right intermediate tendon_FJ1581.obj
+Right lateral basal segmental vein_FJ3061.obj
+Posterior vein of left ventricle_FJ2706.obj
+Left posterior segmental vein_FJ2927.obj
+Left lateral nasal cartilage_FJ2556.obj
+Descending thoracic aorta_FJ1931.obj
+Left anterior basal segmental bronchial tree_FJ2535.obj
+Right flexor pollicis longus_FJ1498.obj
+Left trapezoid_FJ3284.obj
+Left genicular vein_FJ2107.obj
+Right colic artery_FJ3590.obj
+Inferior phrenic vein_FJ3452.obj
+Innermost intercostal muscle_FJ1454M.obj
+Left seventh rib_FJ3234.obj
+Right dorsal scapular artery_FJ2284.obj
+Short ciliary nerve_FJ1319.obj
+Marginal branch of right coronary artery_FJ2668.obj
+Caudate lobe branch of left hepatic artery_FJ3077.obj
+Right iliocostalis lumborum_FJ1527.obj
+Right infratrochlear nerve_FJ1347.obj
+Medulla oblongata_FJ1831.obj
+Left anterior segmental vein_FJ2930.obj
+Left patella_FJ3275.obj
+Right ulna_FJ3391.obj
+Optic chiasm_FJ1771.obj
+Lateral proper palmar digital artery of right ring finger_FJ2366.obj
+Medial proper palmar digital artery of left index finger_FJ2333.obj
+Right inferior phrenic artery_FJ3622.obj
+Superior branch of right superior segmental artery_FJ2999.obj
+Vertical intermediate part of left longus colli_FJ1601.obj
+Right lacrimal canaliculus_FJ1349.obj
+Right genicular vein_FJ2182.obj
+Right lateral cuneiform bone_FJ3373.obj
+Distal part of ileum_FJ2587.obj
+Left rectus capitis posterior minor_FJ1568.obj
+Epiglottis_FJ2770.obj
+Opponens digiti minimi of left hand_FJ1482M.obj
+Set of perforating veins_FJ2119.obj
+Medial branch of right superior cerebellar artery_FJ1688.obj
+Middle part of ileum_FJ2579.obj
+Anterior interventricular vein_FJ2659.obj
+Right subcostal vein_FJ1995.obj
+Left stria terminalis_FJ1778.obj
+Lateral inferior segmental tributary of left hepatic vein_FJ3097.obj
+Right posterior basal segmental vein_FJ3048.obj
+Left superior segmental artery_FJ2891.obj
+Descending part of left trapezius_FJ1521M.obj
+Left tibia_FJ3282.obj
+Right longus capitis_FJ1582.obj
+Artery of left postcentral sulcus_FJ1666M.obj
+Left teres minor_FJ1508M.obj
+Left superior segmental artery_FJ2890.obj
+Left thyro-arytenoid_FJ2785.obj
+Right abductor hallucis_FJ1400.obj
+Right inferior oblique_FJ1345.obj
+Left posterior basal segmental vein_FJ2946.obj
+Right extensor digitorum longus_FJ1406.obj
+Left external iliac artery_FJ3466.obj
+Anterior division of right renal artery_FJ3563.obj
+Proximal phalanx of right second toe_FJ3319.obj
+Right posterior segmental vein_FJ3070.obj
+Right dorsal artery of penis_FJ3593.obj
+Proper palmar digital vein of right ring finger_FJ2358.obj
+_FJ1454.obj
+Right superficial cervical artery_FJ2308.obj
+Left longus capitis_FJ1561.obj
+Sesamoid bone of left foot_FJ3266.obj
+Distal part of ileum_FJ2591.obj
+Left coccygeus_FJ1449M.obj
+Posterior superior segmental branch of right portal vein_FJ3113.obj
+First septal branch of right posterior interventricular artery_FJ2735.obj
+Right renal vein_FJ3578.obj
+Right supinator_FJ1505.obj
+Tributary of plantar venous arch_FJ2165.obj
+Right inferior lateral genicular artery_FJ2150.obj
+Left lobe of thymus_FJ3150.obj
+Left posterior segmental vein_FJ2965.obj
+Left vastus lateralis_FJ1442M.obj
+Right rectus capitis posterior major_FJ1589.obj
+Distal phalanx of right thumb_FJ3198.obj
+Proximal part of ileum_FJ2603.obj
+Medial segmental bronchial tree_FJ2508.obj
+Urethra_FJ3148.obj
+Right fusiform gyrus_FJ1784.obj
+Intermediomedial branch of right callosomarginal artery_FJ1681.obj
+Lateral branch of left superior cerebellar artery_FJ1683M.obj
+Right internal jugular vein_FJ3585.obj
+Right anterior circumflex humeral artery_FJ2264.obj
+Left seminal vesicle_FJ3137.obj
+Left gluteus maximus_FJ1418M.obj
+Proximal part of ileum_FJ2602.obj
+Posterior inferior segmental branch of right portal vein_FJ3111.obj
+Right palmar metacarpal vein_FJ2353.obj
+Intervertebral disk of third cervical vertebra_FJ3213.obj
+Acromial branch of right thoraco-acromial artery_FJ2263.obj
+Right posterior basal segmental bronchial tree_FJ2487.obj
+Medial lumbar intertransversarius_FJ1548M.obj
+Anterior division of left renal artery_FJ3458.obj
+Superior mesenteric vein_FJ3647.obj
+Interosseous membrane of left forearm_FJ1476M.obj
+Set of plantar digital arteries proper_FJ2204.obj
+Left medial basal segmental artery_FJ2885.obj
+Left inferior epigastric artery_FJ3511.obj
+Posteromedial branch of right callosomarginal artery_FJ1722.obj
+Right semimembranosus_FJ1435.obj
+Right cornea_FJ1340.obj
+Right teres major_FJ1507.obj
+Left interspinalis thoracis_FJ1551M.obj
+Right common carotid artery_FJ3564.obj
+Left adductor brevis_FJ1401M.obj
+Left aryepiglotticus_FJ2774.obj
+Set of perforating veins_FJ2138.obj
+Left posterior inferior cerebellar artery_FJ1703M.obj
+Left medial basal segmental bronchial tree_FJ2537.obj
+Spinal part of right deltoid_FJ1513.obj
+Left calcaneus_FJ3256.obj
+Right posterior segmental vein_FJ3023.obj
+Right superior pharyngeal constrictor_FJ2759.obj
+Medial superior segmental branch of left portal vein_FJ3127.obj
+Right internal iliac vein_FJ3608.obj
+Right lateral basal segmental bronchial tree_FJ2490.obj
+Sixth thoracic vertebra_FJ3171.obj
+Left gemellus inferior_FJ1416M.obj
+Anterior part of right apical segmental artery_FJ3011.obj
+Right upper central secondary incisor tooth_FJ1279.obj
+Posterior part of left superior temporal gyrus_FJ1839.obj
+Lateral head of left gastrocnemius_FJ1394M.obj
+Distal phalanx of right fourth toe_FJ3191.obj
+Right extensor digiti minimi_FJ1491.obj
+Anterolateral head of lateral papillary muscle of left ventricle_FJ2418.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2648.obj
+Laterobasal branch of right posterior basal segmental artery_FJ3013.obj
+Pectoral branch of left thoraco-acromial artery_FJ2330.obj
+Anterior inferior pancreaticoduodenal artery_FJ3401.obj
+Distal phalanx of left little finger_FJ3184.obj
+Inferior vena cava_FJ3441.obj
+Right splenial artery_FJ1678.obj
+Right renal artery_FJ2038.obj
+Plantar venous arch of left foot_FJ2128.obj
+Left anterior segmental bronchial tree_FJ2469.obj
+Proximal phalanx of left ring finger_FJ3317.obj
+Right fornix of forebrain_FJ1804.obj
+Right arcuate artery_FJ2133.obj
+Right insula_FJ1749.obj
+Anterior interventricular vein_FJ2664.obj
+Medial proper palmar digital artery of right middle finger_FJ2367.obj
+Right anterior segmental bronchial tree_FJ2513.obj
+Ileocecal junction_FJ2599.obj
+Ethmoid_FJ3199.obj
+Set of dorsal interossei of left hand_FJ1509M.obj
+Right posterior basal segmental vein_FJ3057.obj
+Set of common plantar digital arteries_FJ2196.obj
+Right calcaneus_FJ3360.obj
+Right supratrochlear nerve_FJ1377.obj
+_FJ1465.obj
+Left anterior segmental artery_FJ2902.obj
+Left serratus posterior superior_FJ1542M.obj
+Third plantar interosseous of right foot_FJ1388.obj
+Long head of left biceps femoris_FJ1395M.obj
+First plantar interosseous of right foot_FJ1384.obj
+Middle phalanx of right index finger_FJ3303.obj
+Left posterior medial choroidal artery_FJ1727M.obj
+Right anterior choroidal artery_FJ1658.obj
+Left lacrimal gland_FJ1299.obj
+Anterolateral central branch of right middle cerebral artery_FJ1663.obj
+Seventh cervical vertebra_FJ3172.obj
+Paracentral branch of left callosomarginal artery_FJ1696M.obj
+First anterior ventricular branch of right coronary artery_FJ2677.obj
+Right lacrimal bone_FJ3371.obj
+Right tibia_FJ3387.obj
+Left lateral basal segmental artery_FJ2923.obj
+Left posterior segmental vein_FJ2942.obj
+Right supramarginal gyrus_FJ1842.obj
+Celiac artery_FJ1846.obj
+Right posterior basal segmental vein_FJ3043.obj
+Medial superior segmental hepatic artery_FJ3107.obj
+Hepatovenous segment VIII_FJ2823.obj
+Middle phalanx of left middle finger_FJ3299.obj
+Distal part of jejunum_FJ2614.obj
+Abdominal aorta_FJ1932.obj
+Left serratus posterior inferior_FJ1541M.obj
+Left callosomarginal artery_FJ1676M.obj
+Third right anterior branch of anterior interventricular branch of left coronary artery_FJ2641.obj
+Left amygdala_FJ1753.obj
+First posterior ventricular branch of right coronary artery_FJ2717.obj
+Left digastric_FJ1578.obj
+Plantar metatarsal vein_FJ2207.obj
+Left cervical rotator_FJ1524M.obj
+Posterior interventricular branch of right coronary artery_FJ2693.obj
+Anterior inferior segmental branch of right portal vein_FJ3074.obj
+Right posterior crico-arytenoid_FJ2800.obj
+Posterior inferior segmental tributary of right hepatic vein_FJ3120.obj
+Distal part of jejunum_FJ2621.obj
+Right medial rectus_FJ1359.obj
+Left stylopharyngeus_FJ2746.obj
+Left superior segmental artery_FJ2894.obj
+Proximal phalanx of left little toe_FJ3315.obj
+Duodenum_FJ2573.obj
+Right iliococcygeus_FJ2549.obj
+Artery of left precentral sulcus_FJ1668M.obj
+Right scaphoid_FJ3383.obj
+Posterior segmental branch of left renal artery_FJ2053.obj
+Temporo-occipital branch of right middle cerebral artery_FJ1729.obj
+Right optic tract_FJ1820.obj
+Tarsal plate of right lower eyelid_FJ1379.obj
+Left iliocostalis cervicis_FJ1526M.obj
+Lateral branch of right superior segmental artery_FJ2991.obj
+Right posterior inferior cerebellar artery_FJ1711.obj
+Sphenoid bone_FJ3394.obj
+Urinary bladder_FJ3149.obj
+Small cardiac vein_FJ2724.obj
+Right marginal vein_FJ2727.obj
+Lateral branch of right superior cerebellar artery_FJ1683.obj
+Left suprascapular vein_FJ2250.obj
+Intervertebral disk of fifth lumbar vertebra_FJ3217.obj
+Left pubococcygeus_FJ2545.obj
+Left posterior circumflex humeral artery_FJ2240.obj
+Intervertebral disk of first lumbar vertebra_FJ3212.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2634.obj
+Left middle frontal gyrus_FJ1787.obj
+Descending part of right trapezius_FJ1521.obj
+Medial head of right gastrocnemius_FJ1397.obj
+Left gluteus minimus_FJ1420M.obj
+Left vocalis_FJ2788.obj
+Left anterior segmental bronchial tree_FJ2468.obj
+Dorsal metacarpal vein_FJ2199.obj
+Left inferior phrenic artery_FJ3515.obj
+Lateral proper palmar digital artery of left middle finger_FJ2334.obj
+Left second metacarpal bone_FJ3243.obj
+Humeral head of left flexor carpi ulnaris_FJ1473M.obj
+Proximal part of ileum_FJ2575.obj
+Right gemellus superior_FJ1417.obj
+Right posterior basal segmental bronchial tree_FJ2470.obj
+Dorsal venous network of left hand_FJ2228.obj
+Middle cardiac vein_FJ2691.obj
+Right lacrimal sac_FJ1360.obj
+Right posterior inferior cerebellar artery_FJ1705.obj
+Tendinous arch of levator ani_FJ2552.obj
+Right splenius capitis_FJ1545.obj
+Left upper first secondary molar tooth_FJ1261.obj
+Left kidney_FJ3145.obj
+Right superior colliculus_FJ1826.obj
+Right temporal bone_FJ3386.obj
+Left splenius cervicis_FJ1546M.obj
+Left external iliac vein_FJ3524.obj
+Right humerus_FJ3368.obj
+Right piriformis_FJ1428.obj
+Septal branch of anterior interventricular artery_FJ2733.obj
+Third ventricle_FJ1730.obj
+Transverse mesocolon_FJ3398.obj
+Left posterior basal segmental bronchial tree_FJ2446.obj
+Inferior pancreatic artery_FJ3444.obj
+Right mylohyoid_FJ1583.obj
+Proximal phalanx of right fourth toe_FJ3321.obj
+Left adductor longus_FJ1402M.obj
+Paracentral branch of left callosomarginal artery_FJ1697M.obj
+Right posterior segmental bronchial tree_FJ2515.obj
+Second plantar interosseous of right foot_FJ1386.obj
+Left anterior ethmoidal nerve_FJ1283.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2639.obj
+Lateral inferior segmental tributary of left hepatic vein_FJ3099.obj
+Right posterior ulnar recurrent artery_FJ2293.obj
+Left superior segmental artery_FJ2895.obj
+Right popliteus_FJ1430.obj
+Right sixth rib_FJ3344.obj
+Intervertebral disk of fourth lumbar vertebra_FJ3216.obj
+Right long ciliary nerve_FJ1369.obj
+Left supramarginal gyrus_FJ1841.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2638.obj
+Left anterior segmental artery_FJ2908.obj
+Lateral segmental bronchial tree_FJ2504.obj
+Right rectus capitis posterior minor_FJ1590.obj
+Right lower lateral secondary incisor tooth_FJ1273.obj
+Left thyrocervical trunk_FJ2255.obj
+Superior lingular vein_FJ2937.obj
+Left arteria radialis indicis_FJ2314.obj
+Posterior cecal artery_FJ3553.obj
+Left apical segmental vein_FJ2947.obj
+Dorsal digital artery of foot_FJ2072.obj
+Left superior frontal gyrus_FJ1833.obj
+Right common tendinous ring_FJ1342.obj
+Middle part of jejunum_FJ2607.obj
+Left medial plantar artery_FJ2082.obj
+Right posterior medial choroidal artery_FJ1727.obj
+Tarsal plate of left lower eyelid_FJ1328.obj
+Right patella_FJ3381.obj
+Set of interspinales lumborum_FJ1550M.obj
+Right medial circumflex femoral vein_FJ2202.obj
+Posterior temporal branch of left middle cerebral artery_FJ1717M.obj
+Set of perforating arteries_FJ2090.obj
+Proximal part of jejunum_FJ2622.obj
+Left scalenus medius_FJ1571.obj
+Second lumbrical of left foot_FJ1385M.obj
+Left hepatic vein_FJ2415.obj
+Right sublingual gland_FJ2767.obj
+Left superior intercostal vein_FJ1986.obj
+Hypothalamus_FJ1808.obj
+Caudate lobe branch of left portal vein_FJ3124.obj
+Proximal part of jejunum_FJ2626.obj
+Right scapula_FJ3384.obj
+Inferior lingular artery_FJ2896.obj
+Right lateral nasal cartilage_FJ2558.obj
+Left apical segmental vein_FJ2962.obj
+Right common iliac vein_FJ3566.obj
+Anterior branch of right anterior segmental artery_FJ2975.obj
+Left prefrontal artery_FJ1724M.obj
+Posterior branch of lateral segmental artery_FJ2983.obj
+Pancreaticoduodenal vein_FJ3646.obj
+Left posterior basal segmental artery_FJ2914.obj
+Right vocalis_FJ2806.obj
+Right inferior medial genicular artery_FJ2152.obj
+Left median cubital vein_FJ2235.obj
+Anterior inferior cerebellar artery_FJ1656M.obj
+Posterior superior segmental hepatic artery_FJ3115.obj
+Circumflex branch of left coronary artery_FJ2651.obj
+Left posterior ulnar recurrent artery_FJ2241.obj
+Left splenial artery_FJ1678M.obj
+Right nasociliary nerve_FJ1361.obj
+Left anterior spinal artery_FJ1657M.obj
+Left serratus anterior_FJ1459M.obj
+Right inferior colliculus_FJ1810.obj
+Left popliteus_FJ1430M.obj
+Right interspinalis thoracis_FJ1551.obj
+Posterior superior segmental tributary of right hepatic vein_FJ3119.obj
+Marginal branch of right coronary artery_FJ2675.obj
+Left first metatarsal bone_FJ3241.obj
+Left splenius capitis_FJ1545M.obj
+Superior branch of left oculomotor nerve_FJ1321.obj
+Right great saphenous vein_FJ2145.obj
+Sternocostal part of right pectoralis major_FJ1464.obj
+Right hamate_FJ3367.obj
+Left anterior tibial vein_FJ2097.obj
+Right gastric artery_FJ3594.obj
+Left eighth rib_FJ3235.obj
+Pons_FJ1822.obj
+Left posterior basal segmental bronchial tree_FJ2531.obj
+Left gastric vein_FJ3500.obj
+Accessory hemiazygos vein_FJ1981.obj
+Left posterior inferior cerebellar artery_FJ1709M.obj
+Right platysma_FJ1587.obj
+Right rectus femoris_FJ1433.obj
+Left platysma_FJ1558.obj
+Right anterior cerebral artery_FJ1654.obj
+Middle hepatic vein_FJ2414.obj
+Middle collateral branch of right deep brachial artery_FJ2362.obj
+Abductor digiti minimi of left hand_FJ1466M.obj
+Left sternohyoid_FJ1574.obj
+Left choroid_FJ1286.obj
+Right lobe of thymus_FJ3151.obj
+Right psoas major_FJ1431.obj
+Descending colon_FJ2567.obj
+Hyoid bone_FJ2772.obj
+Distal part of jejunum_FJ2611.obj
+Right posterior tibial vein_FJ2173.obj
+Right renal vein_FJ3577.obj
+Left talus_FJ3280.obj
+Right radial artery_FJ2294.obj
+Left inferior gluteal vein_FJ3513.obj
+Proper palmar digital vein of right little finger_FJ2349.obj
+Lateral branch of left pontine artery_FJ1684M.obj
+Lateral proper palmar digital artery of right middle finger_FJ2365.obj
+_FJ1451.obj
+Left common iliac artery_FJ3464.obj
+Right flexor pollicis brevis_FJ1469M.obj
+Third lumbrical of left foot_FJ1387M.obj
+Navicular bone of left foot_FJ3307.obj
+Left extensor pollicis longus_FJ1495M.obj
+Right upper first secondary premolar tooth_FJ1277.obj
+Intervertebral disk of eleventh thoracic vertebra_FJ3210.obj
+Circumflex branch of left coronary artery_FJ2654.obj
+Proper palmar digital vein of right little finger_FJ2360.obj
+Left anterior basal segmental vein_FJ2959.obj
+Proximal phalanx of left index finger_FJ3313.obj
+Paracentral branch of right callosomarginal artery_FJ1698.obj
+Right trochlear nerve_FJ1381.obj
+Left subclavius_FJ1460M.obj
+Ureteric segment of left renal artery_FJ3481.obj
+Humeral head of right pronator teres_FJ1474.obj
+Right obturator internus_FJ1426.obj
+Set of perforating arteries_FJ2127.obj
+Hepatovenous segment IX_FJ1858.obj
+Inferior mesenteric vein_FJ3443.obj
+Median cricothyroid ligament_FJ2789.obj
+Oblique head of left adductor pollicis_FJ1481M.obj
+Left transverse cervical artery_FJ2257.obj
+Right polar temporal artery_FJ1712.obj
+Left extensor digitorum_FJ1492M.obj
+Medial inferior segmental hepatic artery_FJ3106.obj
+Left plantar arch_FJ2085.obj
+Left infraspinatus muscle_FJ1500M.obj
+Flexor digiti minimi brevis of right foot_FJ1391.obj
+Internal intercostal muscle_FJ1455M.obj
+Left flexor digitorum superficialis_FJ1499M.obj
+Right stylohyoid_FJ1598.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2633.obj
+Septal papillary muscle of right ventricle_FJ2437.obj
+Posterior part of lateral segmental vein_FJ3037.obj
+Ulnar head of left flexor carpi ulnaris_FJ1518M.obj
+Middle temporal branch of right lateral occipital artery_FJ1680.obj
+Right first metatarsal bone_FJ3351.obj
+Dorsal venous network of right hand_FJ2280.obj
+Left trochlear nerve_FJ1330.obj
+Right choroid_FJ1337.obj
+Right posterior segmental bronchial tree_FJ2518.obj
+First right anterior branch of anterior interventricular branch of left coronary artery_FJ2645.obj
+Middle part of jejunum_FJ2628.obj
+Distal part of ileum_FJ2598.obj
+Proximal part of jejunum_FJ2624.obj
+Trunk of left hepatic artery_FJ3095.obj
+Oblique head of left adductor hallucis_FJ1398M.obj
+Right posterior basal segmental bronchial tree_FJ2489.obj
+Medial proper palmar digital artery of right index finger_FJ2364.obj
+Intervertebral disk of ninth thoracic vertebra_FJ3208.obj
+Right corona ciliaris_FJ1338.obj
+Right superior segmental bronchial tree_FJ2496.obj
+Septal branch of anterior interventricular artery_FJ2732.obj
+Arch of aorta_FJ3411.obj
+Set of plantar digital arteries proper_FJ2205.obj
+Left palmar metacarpal vein_FJ2320.obj
+Set of oesophageal branches of thoracic aorta_FJ3431.obj
+Right superior frontal gyrus_FJ1834.obj
+Left posterior segmental vein_FJ2928.obj
+Left superior segmental bronchial tree_FJ2479.obj
+Right medial geniculate body_FJ1816.obj
+Lateral superior segmental hepatic artery_FJ3091.obj
+Right precentral gyrus_FJ1801.obj
+Inferior branch of medial segmental artery_FJ2987.obj
+Left posterior segmental artery_FJ2913.obj
+Right anterior segmental vein_FJ3028.obj
+Left hepatic duct_FJ3096.obj
+Right superior segmental bronchial tree_FJ2500.obj
+Communicating branch of right nasociliary nerve with right ciliary ganglion_FJ1362.obj
+Posterior superior pancreaticoduodenal artery_FJ3557.obj
+Left flexor hallucis longus_FJ1415M.obj
+Left postcentral gyrus_FJ1797.obj
+Left pronator quadratus_FJ1503M.obj
+Left extensor carpi radialis longus_FJ1490M.obj
+Right levator palpebrae superioris_FJ1357.obj
+Left tensor veli palatini_FJ2748.obj
+Distal phalanx of left middle finger_FJ3186.obj
+Sphenoid part of left middle cerebral artery_FJ1692M.obj
+Lateral superior segmental branch of left portal vein_FJ3126.obj
+Left external iliac vein_FJ3523.obj
+Artery of left precentral sulcus_FJ1670M.obj
+Lateral superior tributary of left hepatic biliary tree_FJ3088.obj
+Right fifth metacarpal bone_FJ3358.obj
+Distal part of ileum_FJ2594.obj
+Left iliococcygeus_FJ1453M.obj
+Set of interspinales cervicis_FJ1552M.obj
+Flexor retinaculum of right wrist_FJ1471.obj
+Acromial branch of left thoraco-acromial artery_FJ2211.obj
+Set of calcaneal branches of posterior tibial artery_FJ2195.obj
+Right spinalis thoracis_FJ1544.obj
+Check ligament of right lateral rectus_FJ1334.obj
+Left superficial palmar arterial arch_FJ2248.obj
+Left inferior epigastric vein_FJ3512.obj
+Middle cardiac vein_FJ2686.obj
+Right anterior circumflex humeral vein_FJ2265.obj
+Left abductor pollicis brevis_FJ1483M.obj
+Right adductor longus_FJ1402.obj
+Right adrenal gland_FJ3130.obj
+Left pisiform_FJ3276.obj
+Left medial brachial vein_FJ2313.obj
+Anterior inferior tributary of right hepatic biliary tree_FJ3072.obj
+Left flexor digitorum profundus_FJ1497M.obj
+Posterior segmental branch of right renal artery_FJ2045.obj
+Right tibialis anterior_FJ1439.obj
+Gingiva of upper jaw_FJ1252.obj
+Left gastro-epiploic artery_FJ3501.obj
+Common palmar digital vein_FJ2322.obj
+Right stylopharyngeus_FJ2758.obj
+Set of perforating veins_FJ2192.obj
+Check ligament of left lateral rectus_FJ1284.obj
+External intercostal muscle_FJ1451M.obj
+Right epididymis_FJ3141.obj
+Right superior ulnar collateral artery_FJ2373.obj
+Right teres minor_FJ1508.obj
+Proximal part of jejunum_FJ2606.obj
+Abductor digiti minimi of right hand_FJ1466.obj
+Left obturator vein_FJ3527.obj
+Tributary of plantar venous arch_FJ2115.obj
+Medial proper palmar digital artery of right ring finger_FJ2369.obj
+Right tibialis posterior_FJ1440.obj
+Right tensor fasciae latae_FJ1438.obj
+Left upper lateral secondary incisor tooth_FJ1266.obj
+Left inferior rectus_FJ1295.obj
+Left first rib_FJ3228.obj
+Bronchial branch of arch of aorta_FJ3418.obj
+Mediobasal branch of right posterior basal segmental artery_FJ3008.obj
+Right conus artery_FJ2670.obj
+Superior lingular vein_FJ2938.obj
+Left anterior interosseous artery_FJ2214.obj
+External anal sphincter_FJ2543.obj
+Trunk of right hepatic artery_FJ3117.obj
+Right anterior ulnar recurrent artery_FJ2311.obj
+Right genicular vein_FJ2151.obj
+Left flexor digitorum longus_FJ1414M.obj
+Right thyro-arytenoid_FJ2802.obj
+Right scalenus anterior_FJ1592.obj
+Right inferior phrenic artery_FJ3621.obj
+Left superficial dorsal vein of penis_FJ3426.obj
+Medial branch of right superior segmental artery_FJ2996.obj
+Right upper second secondary premolar tooth_FJ1278.obj
+Right plantar arch_FJ2169.obj
+Right flexor digitorum brevis_FJ1413.obj
+First posterior ventricular branch of right coronary artery_FJ2714.obj
+Anterior interventricular vein_FJ2662.obj
+Left lower second secondary molar tooth_FJ1256.obj
+Right trapezium_FJ3388.obj
+Right posterior inferior cerebellar artery_FJ1715.obj
+Left clavicle_FJ3237.obj
+Right cingulate gyrus_FJ1740.obj
+Posterior vein of left ventricle_FJ2708.obj
+Fourth lumbar vertebra_FJ3165.obj
+Left palmar metacarpal vein_FJ2323.obj
+Middle phalanx of left second toe_FJ3293.obj
+Posterior leaflet of mitral valve_FJ2432.obj
+Left deep plantar artery_FJ2068.obj
+Posterior vein of left ventricle_FJ2711.obj
+Right second common palmar digital artery_FJ2344.obj
+Middle phalanx of left little finger_FJ3297.obj
+Anterior division of left renal artery_FJ3460.obj
+Flexor digiti minimi brevis of left hand_FJ1470M.obj
+Left fourth costal cartilage_FJ3248.obj
+Sigmoid vein_FJ3639.obj
+Anterior inferior segmental tributary of middle hepatic vein_FJ3086.obj
+Left fourth metatarsal bone_FJ3250.obj
+Right lateral sacral vein_FJ3611.obj
+Left psoas major_FJ1431M.obj
+Right palatopharyngeus_FJ2755.obj
+Posterior part of right posterior segmental artery_FJ2972.obj
+Left superior oblique_FJ1322.obj
+Third cervical vertebra_FJ3161.obj
+Accessory subsuperior branch of right posterior basal segmental artery_FJ3010.obj
+Distal phalanx of left little toe_FJ3185.obj
+Cerebellum_FJ1781.obj
+Set of dorsal digital arteries_FJ2093.obj
+Right circumflex scapular vein_FJ2274.obj
+Anterior superior segmental branch of right portal vein_FJ3073.obj
+Left posterior segmental bronchial tree_FJ2465.obj
+Insular part of right middle cerebral artery_FJ1660.obj
+Left lacrimal nerve_FJ1300.obj
+Distal phalanx of left ring finger_FJ3187.obj
+Left colic vein_FJ3495.obj
+Accessory subsuperior branch of right posterior basal segmental artery_FJ3009.obj
+Right levator scapulae_FJ1532.obj
+Posterior interventricular branch of right coronary artery_FJ2698.obj
+Lateral head of right flexor hallucis brevis_FJ1393.obj
+Cerebellum_FJ1830.obj
+Left longissimus cervicis_FJ1534M.obj
+Right major alar cartilage_FJ2554.obj
+First posterior ventricular branch of right coronary artery_FJ2720.obj
+Left lens_FJ1305.obj
+Left lateral thoracic vein_FJ2233.obj
+Inferior branch of left oculomotor nerve_FJ1293.obj
+Left posterior segmental vein_FJ2941.obj
+Right superior pulmonary vein_FJ3020.obj
+Marginal branch of right coronary artery_FJ2667.obj
+Posterior vein of left ventricle_FJ2710.obj
+Splenic artery_FJ3420.obj
+Right fibular vein_FJ2200.obj
+Paracentral branch of right callosomarginal artery_FJ1696.obj
+Right anterior segmental artery_FJ2044.obj
+Left obturator externus_FJ1425M.obj
+Lateral branch of right anterior basal segmental artery_FJ3001.obj
+Right extensor pollicis brevis_FJ1494.obj
+Proper palmar digital vein of right middle finger_FJ2357.obj
+Right longissimus capitis_FJ1533.obj
+Right splenial artery_FJ1677.obj
+Anterior part of right apical segmental artery_FJ2989.obj
+Fourth lumbrical of right foot_FJ1389.obj
+Left long plantar ligament_FJ1424M.obj
+Paracentral branch of left callosomarginal artery_FJ1698M.obj
+Linea alba_FJ1448.obj
+Anterior interventricular vein_FJ2657.obj
+Right superior epigastric vein_FJ3615.obj
+Right medial basal segmental bronchial tree_FJ2488.obj
+Short ciliary nerve_FJ1370.obj
+Inferior lingular bronchial tree_FJ2441.obj
+Right middle frontal gyrus_FJ1788.obj
+Left medial circumflex femoral vein_FJ2189.obj
+Left sternothyroid_FJ1575.obj
+Superior part of medial segmental vein_FJ3030.obj
+Right upper lobar artery_FJ2973.obj
+Posterior vein of left ventricle_FJ2707.obj
+Intervertebral disk of axis_FJ3202.obj
+Right subclavian vein_FJ3587.obj
+Posterior interventricular branch of right coronary artery_FJ2699.obj
+Seventh thoracic vertebra_FJ3173.obj
+Right thoracodorsal artery_FJ2305.obj
+Superior phrenic vein_FJ3650.obj
+Middle cardiac vein_FJ2687.obj
+Middle cardiac vein_FJ2683.obj
+Right upper lateral secondary incisor tooth_FJ1280.obj
+Right conus artery_FJ2676.obj
+Right posterior basal segmental vein_FJ3044.obj
+Right ureter_FJ3146.obj
+Right stria medullaris of thalamus_FJ1824.obj
+Left lacrimal lake_FJ1301.obj
+Right maxilla_FJ3375.obj
+Left posterior inferior cerebellar artery_FJ1702M.obj
+Marginal artery of colon_FJ3534.obj
+Right median cubital vein_FJ2287.obj
+Left putamen_FJ1776.obj
+Right upper first secondary molar tooth_FJ1276.obj
+Proper palmar digital vein of right middle finger_FJ2356.obj
+Left scalenus anterior_FJ1570.obj
+Trochlea of left superior oblique_FJ1329.obj
+Insular part of left middle cerebral artery_FJ1694M.obj
+Left puborectalis_FJ1458M.obj
+Left capitate_FJ3257.obj
+Posterior superior segmental branch of right portal vein_FJ3112.obj
+Inferior phrenic vein_FJ3451.obj
+Trunk of right thoraco-acromial artery_FJ2304.obj
+Posterior interventricular branch of right coronary artery_FJ2694.obj
+Left posterior basal segmental vein_FJ2949.obj
+Right gluteus minimus_FJ1420.obj
+Left lumbar rotator_FJ1522M.obj
+Basal branch of right anterior basal segmental artery_FJ3002.obj
+Corpus spongiosum of penis_FJ3133.obj
+Left supra-orbital nerve_FJ1325.obj
+Left posterior segmental vein_FJ2943.obj
+Left superficial epigastric vein_FJ2122.obj
+Left third metatarsal bone_FJ3247.obj
+Right iliotibial tract_FJ1423.obj
+Right inferior rectus_FJ1346.obj
+Posterior part of right superior temporal gyrus_FJ1840.obj
+Middle cardiac vein_FJ2684.obj
+Right apical segmental bronchial tree_FJ2454.obj
+Left anterior tibial vein_FJ2183.obj
+Right superior segmental vein_FJ3051.obj
+Left deep palmar venous arch_FJ2229.obj
+Set of lumbricals of left hand_FJ1510M.obj
+Right pectoralis minor_FJ1456.obj
+Right salpingopharyngeus_FJ2757.obj
+Flexor retinaculum of left wrist_FJ1471M.obj
+Set of plantar digital arteries proper_FJ2095.obj
+Right choroid_FJ1336.obj
+Right testicular artery_FJ3617.obj
+Lateral segmental bronchial tree_FJ2449.obj
+Left flexor pollicis longus_FJ1498M.obj
+Left basilic vein_FJ2218.obj
+Basilar artery_FJ1672.obj
+Superficial head of right flexor pollicis brevis_FJ1514.obj
+Pancreaticoduodenal vein_FJ3655.obj
+Frontal bone_FJ3200.obj
+Third lumbar vertebra_FJ3162.obj
+Pancreas_FJ1895.obj
+Anterior division of right renal artery_FJ3559.obj
+Diaphragm_FJ3131.obj
+Right third common palmar digital artery_FJ2345.obj
+Right suprascapular artery_FJ2303.obj
+Navicular bone of right foot_FJ3308.obj
+Right third costal cartilage_FJ3337.obj
+Right fourth common palmar digital artery_FJ2370.obj
+Right extensor hallucis longus_FJ1408.obj
+Left posterior inferior cerebellar artery_FJ1700M.obj
+Right anconeus_FJ1485.obj
+Esophagus_FJ2563.obj
+Right pronator quadratus_FJ1503.obj
+Descending branch of right lateral circumflex femoral artery_FJ2057.obj
+Posterior branch of right anterior segmental artery_FJ2980.obj
+Left inferior suprarenal artery_FJ3467.obj
+First right anterior branch of anterior interventricular branch of left coronary artery_FJ2632.obj
+Right semispinalis cervicis_FJ1539.obj
+Left pubococcygeus_FJ1457M.obj
+Ninth thoracic vertebra_FJ3175.obj
+Interventricular foramen_FJ1752.obj
+Left posterior inferior cerebellar artery_FJ1701M.obj
+Tarsal plate of right upper eyelid_FJ1375.obj
+Right superior segmental bronchial tree_FJ2502.obj
+Right vastus medialis_FJ1443.obj
+Left fifth costal cartilage_FJ3251.obj
+Splenic artery_FJ3640.obj
+Right posterior segmental vein_FJ3026.obj
+Middle cardiac vein_FJ2681.obj
+Right thalamoperforating artery_FJ1720.obj
+Right talus_FJ3385.obj
+Fourth thoracic vertebra_FJ3166.obj
+Right anterior ethmoidal nerve_FJ1333.obj
+Right deep palmar arch_FJ2279.obj
+Left pectoralis minor_FJ1456M.obj
+Left apical segmental vein_FJ2958.obj
+Left extensor carpi radialis brevis_FJ1489M.obj
+Left adrenal gland_FJ3129.obj
+Left lateral basal segmental vein_FJ2954.obj
+First anterior ventricular branch of right coronary artery_FJ2671.obj
+Left lacrimal bone_FJ3265.obj
+Right popliteal vein_FJ2171.obj
+Left superficial medial plantar artery_FJ2089.obj
+Pancreaticoduodenal vein_FJ3545.obj
+Middle phalanx of right fourth toe_FJ3302.obj
+Apical part of right posterior segmental artery_FJ3018.obj
+Left internal iliac vein_FJ3470.obj
+Left salpingopharyngeus_FJ2745.obj
+Right posterior basal segmental bronchial tree_FJ2481.obj
+Clavicular part of right deltoid_FJ1468.obj
+Anterior branch of lateral segmental artery_FJ2985.obj
+Right inferior phrenic artery_FJ3625.obj
+Choroid plexus of cerebral hemisphere_FJ1803.obj
+Left medial rectus_FJ1308.obj
+Right common interosseous artery_FJ2275.obj
+Right serratus posterior inferior_FJ1541.obj
+Right flexor digitorum profundus_FJ1497.obj
+Hepatovenous segment IV_FJ2820.obj
+Intervertebral disk of first thoracic vertebra_FJ3222.obj
+Left posterior inferior cerebellar artery_FJ1715M.obj
+Left apical segmental bronchial tree_FJ2460.obj
+Paracentral branch of right callosomarginal artery_FJ1697.obj
+Lateral head of right triceps brachii_FJ1477.obj
+Right internal iliac artery_FJ3569.obj
+Right posterior segmental vein_FJ3024.obj
+Right anterior segmental bronchial tree_FJ2510.obj
+Left lateral crico-arytenoid_FJ2778.obj
+Left precentral gyrus_FJ1800.obj
+Proximal part of ileum_FJ2585.obj
+Branch of left anterior choroidal artery to posterior limb of left internal capsule_FJ1674M.obj
+Left thyrohyoid membrane_FJ2786.obj
+Gingiva of lower jaw_FJ1253.obj
+Left supraspinatus_FJ1506M.obj
+Ileocolic vein_FJ3440.obj
+Left lateral frontobasal artery_FJ1685M.obj
+Right pterygomandibular raphe_FJ2756.obj
+Right superior intercostal artery_FJ1935.obj
+Left geniohyoid_FJ1559.obj
+Right first rib_FJ3334.obj
+Set of perforating arteries_FJ2203.obj
+Long head of left biceps brachii_FJ1478M.obj
+Lateral branch of right lateral basal segmental artery_FJ3005.obj
+Lumbar artery_FJ3636.obj
+Left great saphenous vein_FJ2103.obj
+Right caudate nucleus_FJ1802.obj
+Middle phalanx of right third toe_FJ3301.obj
+Left common tendinous ring_FJ1291.obj
+Right radial recurrent artery_FJ2295.obj
+Right sternohyoid_FJ1596.obj
+Left lateral circumflex femoral vein_FJ2188.obj
+Right adductor brevis_FJ1401.obj
+Left testicular artery_FJ3532.obj
+Lateral head of left flexor hallucis brevis_FJ1393M.obj
+Body of sternum_FJ3178.obj
+Right putamen_FJ1823.obj
+Left adductor minimus_FJ1404M.obj
+Right lumbar rotator_FJ1522.obj
+Left flexor digitorum superficialis_FJ1475M.obj
+Marginal colic artery_FJ2025.obj
+Branch of right middle cerebral artery to right angular gyrus_FJ1673.obj
+Posterior part of lateral segmental vein_FJ3038.obj
+Left apical segmental vein_FJ2963.obj
+Right superior segmental vein_FJ3063.obj
+Middle collateral branch of left deep brachial artery_FJ2331.obj
+Hepatovenous segment VI_FJ2822.obj
+Right suprarenal vein_FJ3580.obj
+Right inferior phrenic artery_FJ3623.obj
+Trunk of right apical segmental vein_FJ3031.obj
+Right anterior segmental bronchial tree_FJ2511.obj
+Opponens digiti minimi of left foot_FJ1399M.obj
+Left transversus thoracis_FJ1461M.obj
+Right anterior tibial vein_FJ2193.obj
+Left lateral tarsal artery_FJ2081.obj
+Postcommunicating part of left posterior cerebral artery_FJ1714M.obj
+Right semispinalis thoracis_FJ1540.obj
+Oblique part of right cricothyroid_FJ2799.obj
+Right aryepiglotticus_FJ2791.obj
+Middle cardiac vein_FJ2680.obj
+Left inferior phrenic artery_FJ3518.obj
+Left nasociliary nerve_FJ1310.obj
+Right anterior tibial vein_FJ2132.obj
+Set of dorsal digital veins_FJ2198.obj
+Right lunate_FJ3374.obj
+Left renal vein_FJ3478.obj
+Lateral branch of right lateral basal segmental artery_FJ3007.obj
+Left apical segmental artery_FJ2918.obj
+Cerebral aqueduct_FJ1738.obj
+Central canal of spinal cord_FJ1737.obj
+Right splenius cervicis_FJ1546.obj
+Right lateral crico-arytenoid_FJ2796.obj
+Right anterior basal segmental bronchial tree_FJ2494.obj
+Right posterior segmental bronchial tree_FJ2517.obj
+Anterior branch of right anterior segmental artery_FJ2977.obj
+Left seventh costal cartilage_FJ3255.obj
+Right adductor minimus_FJ1404.obj
+Anterior papillary muscle of right ventricle_FJ2419.obj
+Stomach_FJ2564.obj
+Right lower second secondary molar tooth_FJ1270.obj
+Left lateral geniculate body_FJ1766.obj
+Right puborectalis_FJ2551.obj
+Right optic nerve_FJ1819.obj
+Left iliococcygeus_FJ2544.obj
+Left superior segmental bronchial tree_FJ2482.obj
+Left inferior phrenic artery_FJ3517.obj
+Left spinalis thoracis_FJ1544M.obj
+Right anterior segmental artery_FJ2041.obj
+Right dorsalis pedis artery_FJ2055.obj
+Left sixth rib_FJ3233.obj
+Right lateral tarsal artery_FJ2163.obj
+Brachium of left superior colliculus_FJ1735.obj
+External ear_FJ2811.obj
+Hepatovenous segment VII_FJ2409.obj
+Left external iliac vein_FJ3484.obj
+Left inferior pharyngeal constrictor_FJ2740.obj
+Left posterior inferior cerebellar artery_FJ1711M.obj
+Anterior temporal branch of left lateral occipital artery_FJ1661M.obj
+Radial collateral branch of right deep brachial artery_FJ2262.obj
+Left external oblique_FJ1452M.obj
+Left posterior basal segmental bronchial tree_FJ2529.obj
+Left lateral occipital artery_FJ1687M.obj
+Right occipital lobe_FJ1792.obj
+Left apical segmental bronchial tree_FJ2462.obj
+Superior lingular artery_FJ2900.obj
+Right calcaneal tendon_FJ1405.obj
+Proximal phalanx of left thumb_FJ3318.obj
+Left thyro-arytenoid_FJ2784.obj
+Right radial vein_FJ2296.obj
+Transverse arytenoid_FJ2809.obj
+Left rhomboid minor_FJ1537M.obj
+_FJ1450.obj
+Right marginal vein_FJ2728.obj
+Great cardiac vein_FJ2656.obj
+Appendicular artery_FJ3410.obj
+Right deep palmar venous arch_FJ2281.obj
+Posterior part of lateral segmental vein_FJ3039.obj
+Right deep brachial artery_FJ2277.obj
+Left inferior phrenic artery_FJ3514.obj
+Left superior intercostal artery_FJ1970.obj
+Dorsal venous arch of left foot_FJ2060.obj
+Right first common palmar digital artery_FJ2343.obj
+Left posterior basal segmental bronchial tree_FJ2530.obj
+Set of anterior cervical intertransversarii_FJ1549M.obj
+Left posterior basal segmental artery_FJ2920.obj
+Interosseous membrane of right leg_FJ1392.obj
+Left posterior parietal artery_FJ1716M.obj
+Right clavicle_FJ3362.obj
+Inferior phrenic vein_FJ3448.obj
+Right flexor digitorum longus_FJ1414.obj
+Middle cardiac vein_FJ2678.obj
+Left lacrimal canaliculus_FJ1298.obj
+Left anterior basal segmental vein_FJ2957.obj
+Left iliocostalis lumborum_FJ1527M.obj
+Left anterior segmental vein_FJ2932.obj
+Right medial basal segmental bronchial tree_FJ2456.obj
+Left upper second secondary premolar tooth_FJ1264.obj
+_FJ1656.obj
+Proximal part of jejunum_FJ2625.obj
+Superior segmental branch of left renal artery_FJ2052.obj
+Left vertebral artery_FJ1725M.obj
+Right flexor digitorum superficialis_FJ1475.obj
+Sesamoid bone of left foot_FJ3270.obj
+Middle cardiac vein_FJ2682.obj
+Right lens_FJ1356.obj
+Left upper second secondary molar tooth_FJ1263.obj
+Right sclera_FJ1368.obj
+Left semispinalis capitis_FJ1538M.obj
+Superior rectal vein_FJ3657.obj
+Left gastric artery_FJ3499.obj
+Left middle pharyngeal constrictor_FJ2754.obj
+Cavity of right ventricle_FJ2423.obj
+Right hyoglossus_FJ2751.obj
+Superior lingular artery_FJ2901.obj
+Left apical segmental bronchial tree_FJ2463.obj
+Long head of left triceps brachii_FJ1479M.obj
+Tongue_FJ2761.obj
+Parenchyma of pancreas_FJ2629.obj
+Right genicular vein_FJ2181.obj
+Middle temporal branch of left middle cerebral artery_FJ1693M.obj
+Distal phalanx of right little finger_FJ3194.obj
+Left lunate_FJ3268.obj
+Left arteria princeps pollicis_FJ2338.obj
+Superior phrenic vein_FJ3651.obj
+Right anterior basal segmental vein_FJ3056.obj
+Left lateral frontobasal artery_FJ1686M.obj
+Anterior branch of right anterior segmental artery_FJ2976.obj
+Oblique head of right adductor hallucis_FJ1398.obj
+Left posterior inferior cerebellar artery_FJ1705M.obj
+Short head of left biceps brachii_FJ1512M.obj
+Right palatine bone_FJ3379.obj
+Mammillary body_FJ1768.obj
+Right ulnar vein_FJ2312.obj
+Middle part of jejunum_FJ2610.obj
+Anterior superior segmental hepatic artery_FJ3076.obj
+Left anterior segmental artery_FJ2905.obj
+Right medial plantar artery_FJ2164.obj
+Left optic nerve_FJ1772.obj
+Anterior chamber of left eyeball_FJ1282.obj
+First posterior ventricular branch of right coronary artery_FJ2718.obj
+White matter of right cerebral hemisphere_FJ1806.obj
+Right posterior inferior cerebellar artery_FJ1707.obj
+Anterior interventricular vein_FJ2665.obj
+Left extensor hallucis brevis_FJ1407M.obj
+Superior phrenic vein_FJ3654.obj
+Left genicular vein_FJ2125.obj
+Left triquetral_FJ3285.obj
+Anterior division of right renal artery_FJ3560.obj
+Superior branch of right superior segmental artery_FJ2998.obj
+Apical part of right apical segmental artery_FJ3016.obj
+Precuneal branch of right pericallosal artery_FJ1671.obj
+Right hepatic duct_FJ3123.obj
+Small cardiac vein_FJ2731.obj
+Left scaphoid_FJ3278.obj
+Left medial basal segmental bronchial tree_FJ2442.obj
+Right recurrent interosseous artery_FJ2297.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2637.obj
+Right adductor magnus_FJ1403.obj
+Posterior segmental branch of left renal artery_FJ2054.obj
+Spinal part of left deltoid_FJ1513M.obj
+Left anterior segmental bronchial tree_FJ2474.obj
+Septal leaflet of tricuspid valve_FJ2436.obj
+Posterior inferior segmental tributary of right hepatic vein_FJ3118.obj
+Middle temporal branch of right middle cerebral artery_FJ1693.obj
+Left thoracodorsal vein_FJ2254.obj
+First posterior ventricular branch of right coronary artery_FJ2722.obj
+Left parahippocampal gyrus_FJ1785.obj
+Right testis_FJ3142.obj
+Left second metatarsal bone_FJ3244.obj
+Left lateral basal segmental vein_FJ2952.obj
+Marginal branch of right coronary artery_FJ2672.obj
+Lateral inferior segmental tributary of left hepatic vein_FJ3100.obj
+Proper palmar digital vein of right index finger_FJ2354.obj
+Pectoral branch of right thoraco-acromial artery_FJ2361.obj
+Right geniohyoid_FJ1580.obj
+Eyebrow_FJ2812.obj
+Lateral lumbar intertransversarius_FJ1547M.obj
+Middle part of jejunum_FJ2609.obj
+Communicating branch of left nasociliary nerve with left ciliary ganglion_FJ1311.obj
+First lumbrical of right foot_FJ1383.obj
+Left supinator_FJ1505M.obj
+Superior phrenic vein_FJ3653.obj
+Anterior superior tributary of right hepatic biliary tree_FJ3071.obj
+Right posterior inferior cerebellar artery_FJ1700.obj
+Right seminal vesicle_FJ3143.obj
+Straight part of left cricothyroid_FJ2783.obj
+Second septal branch of right posterior interventricular artery_FJ2736.obj
+_FJ1543.obj
+Intervertebral disk of third lumbar vertebra_FJ3215.obj
+Third thoracic vertebra_FJ3163.obj
+Hypothalamic branch of right posterior communicating artery_FJ1679.obj
+Left submandibular gland_FJ2766.obj
+Right superior epigastric artery_FJ1936.obj
+Left anterior segmental bronchial tree_FJ2471.obj
+Left iliolumbar vein_FJ3510.obj
+Basilar artery_FJ1844.obj
+Right medial basal segmental vein_FJ3054.obj
+Right apical segmental bronchial tree_FJ2526.obj
+Left duct of caudate lobe of liver_FJ3094.obj
+Right superficial medial plantar artery_FJ2179.obj
+Right lateral basal segmental vein_FJ3059.obj
+Left renal vein_FJ3477.obj
+Left third common palmar digital artery_FJ2317.obj
+Left inferior nasal concha_FJ3263.obj
+Left soleus_FJ1437M.obj
+Left scalenus posterior_FJ1572.obj
+Left inferior pulmonary vein_FJ2955.obj
+Common hepatic duct_FJ3079.obj
+Mammillary body_FJ1815.obj
+Left posterior segmental vein_FJ2926.obj
+Proximal phalanx of right index finger_FJ3322.obj
+Proximal phalanx of right big toe_FJ3310.obj
+Posterior interventricular branch of right coronary artery_FJ2692.obj
+Anterolateral central branch of left middle cerebral artery_FJ1662M.obj
+Right lateral geniculate body_FJ1813.obj
+Stria terminalis_FJ1825.obj
+Plantar metatarsal vein_FJ2191.obj
+Left extensor digitorum longus_FJ1406M.obj
+Proximal phalanx of right ring finger_FJ3326.obj
+Middle part of jejunum_FJ2608.obj
+Right vertebral artery_FJ1725.obj
+Tributary of middle hepatic vein_FJ1867.obj
+Dorsal digital artery of foot_FJ2141.obj
+Right testicular vein_FJ3618.obj
+Medial branch of right superior segmental artery_FJ2995.obj
+Superior mesenteric artery_FJ1928.obj
+Occipital bone_FJ3309.obj
+Lateral superior segmental hepatic artery_FJ3093.obj
+_FJ1664.obj
+Left internal iliac vein_FJ3469.obj
+Lateral inferior segmental hepatic artery_FJ3092.obj
+Left pterygomandibular raphe_FJ2744.obj
+Proximal phalanx of left middle finger_FJ3316.obj
+Left circumflex scapular vein_FJ2222.obj
+Inferior vena cava_FJ3659.obj
+Right internal thoracic artery_FJ1937.obj
+Left internal carotid artery_FJ1682M.obj
+Inferior part of medial segmental vein_FJ3032.obj
+Third plantar interosseous of left foot_FJ1388M.obj
+Right thalamogeniculate artery_FJ1675.obj
+Superior branch of right oculomotor nerve_FJ1372.obj
+Apical part of right apical segmental vein_FJ3064.obj
+Anterior division of right renal artery_FJ3561.obj
+Left posterior inferior cerebellar artery_FJ1708M.obj
+Proximal phalanx of left second toe_FJ3328.obj
+Right vitreous body_FJ1382.obj
+Right iliocostalis cervicis_FJ1526.obj
+Intervertebral disk of fourth thoracic vertebra_FJ3203.obj
+Left superior colliculus_FJ1779.obj
+Right superior gluteal vein_FJ3616.obj
+Taenia omentalis_FJ2570.obj
+Left renal artery_FJ2046.obj
+Right gastroepiploic vein_FJ3597.obj
+Hyoid bone_FJ3201.obj
+Left posterior segmental vein_FJ2940.obj
+Set of dorsal metacarpal arteries_FJ2347.obj
+Posterior leaflet of tricuspid valve_FJ2433.obj
+Right superior segmental bronchial tree_FJ2498.obj
+Left femoral vein_FJ2102.obj
+Left deep brachial artery_FJ2225.obj
+Left thalamogeniculate artery_FJ1675M.obj
+Right superficial epigastric artery_FJ3614.obj
+Left genicular vein_FJ2108.obj
+Pineal body_FJ1795.obj
+Lateral branch of right lateral basal segmental artery_FJ3006.obj
+Left superior cerebellar artery_FJ1726M.obj
+Left levator scapulae_FJ1532M.obj
+Temporo-occipital branch of left middle cerebral artery_FJ1729M.obj
+Left superior ulnar collateral artery_FJ2374.obj
+Basal branch of right anterior basal segmental artery_FJ3003.obj
+External anal sphincter_FJ2548.obj
+Middle part of ileum_FJ2583.obj
+Artery of right postcentral sulcus_FJ1666.obj
+Set of common plantar digital arteries_FJ2092.obj
+Left apical segmental bronchial tree_FJ2461.obj
+Twelfth thoracic vertebra_FJ3156.obj
+Left genioglossus_FJ2738.obj
+Right deferent duct_FJ3140.obj
+Thyro-epiglottic ligament_FJ2807.obj
+Left posterior basal segmental vein_FJ2945.obj
+Left tensor fasciae latae_FJ1438M.obj
+Right superior intercostal vein_FJ1991.obj
+Hepatic portal vein_FJ1853.obj
+Left second rib_FJ3229.obj
+Manubrium_FJ3290.obj
+Distal part of ileum_FJ2589.obj
+Midbrain_FJ1770.obj
+Right inferior phrenic artery_FJ3619.obj
+Set of left levatores costarum breves_FJ1462M.obj
+Distal perforating artery_FJ2064.obj
+Right trapezoid_FJ3389.obj
+Left superior epigastric artery_FJ1971.obj
+Pancreatic duct tree_FJ2630.obj
+Dorsal venous arch of left foot_FJ2059.obj
+Left optic tract_FJ1773.obj
+Left popliteal artery_FJ2086.obj
+Right second metatarsal bone_FJ3353.obj
+_FJ1525.obj
+Left fourth common palmar digital artery_FJ2337.obj
+Tendinous arch of levator ani_FJ2553.obj
+Posterior vein of left ventricle_FJ2713.obj
+Right lobe branch of right hepatic artery_FJ1924.obj
+Hemiazygos vein_FJ3434.obj
+Right anterior basal segmental vein_FJ3049.obj
+Transverse head of left adductor hallucis_FJ1445M.obj
+Left posterior communicating artery_FJ1713M.obj
+Ileocolic artery_FJ3439.obj
+Right anterior temporal artery_FJ1659.obj
+Inferior lingular bronchial tree_FJ2475.obj
+Posteromedial central branch of right posterior cerebral artery_FJ1721.obj
+Set of right levatores costarum longi_FJ1463.obj
+Right internal iliac vein_FJ3570.obj
+Anterior cardiac vein_FJ2730.obj
+Posterior vein of left ventricle_FJ2702.obj
+Left posterior segmental vein_FJ2939.obj
+Artery of right precentral sulcus_FJ1670.obj
+Apical part of right apical segmental vein_FJ3067.obj
+Left anterior segmental vein_FJ2931.obj
+Right nasolacrimal duct_FJ1353.obj
+Left deep femoral vein_FJ2099.obj
+Distal part of jejunum_FJ2612.obj
+Left teres major_FJ1507M.obj
+Left coccygeus_FJ2542.obj
+Right main bronchus proper_FJ2539.obj
+Right lateral circumflex femoral artery_FJ2158.obj
+Left infratrochlear nerve_FJ1296.obj
+Right cuboid bone_FJ3364.obj
+Left cuboid bone_FJ3258.obj
+Abdominal part of left pectoralis major_FJ1446M.obj
+Right flexor digitorum superficialis_FJ1499.obj
+Left suprarenal vein_FJ3480.obj
+Middle cardiac vein_FJ2690.obj
+Pituitary gland_FJ1796.obj
+Ulnar head of right pronator teres_FJ1516.obj
+Right inferior temporal gyrus_FJ1747.obj
+Right femur_FJ3365.obj
+Dorsal carpal branch of right radial artery_FJ2283.obj
+Left upper secondary canine tooth_FJ1267.obj
+Transverse head of right adductor hallucis_FJ1445.obj
+Right circumflex scapular artery_FJ2273.obj
+Left apical segmental bronchial tree_FJ2464.obj
+Right seventh rib_FJ3346.obj
+Optic part of right retina_FJ1367.obj
+Left deep palmar arch_FJ2227.obj
+Medial superior tributary of left hepatic biliary tree_FJ3104.obj
+Left zygomatic bone_FJ3287.obj
+Left nasal bone_FJ3272.obj
+Left anterior segmental artery_FJ2909.obj
+Right arteria princeps pollicis_FJ2371.obj
+First posterior ventricular branch of right coronary artery_FJ2721.obj
+Left lateral thoracic artery_FJ1976.obj
+Right ophthalmic nerve_FJ1363.obj
+Inferior lingular artery_FJ2897.obj
+Anterior interventricular vein_FJ2660.obj
+Proper palmar digital vein of left little finger_FJ2321.obj
+Left anterior temporal artery_FJ1659M.obj
+Right anterior basal segmental bronchial tree_FJ2493.obj
+Left ciliary ganglion_FJ1288.obj
+Distal phalanx of right little toe_FJ3195.obj
+Left internal pudendal vein_FJ3525.obj
+Superior lingular bronchial tree_FJ2476.obj
+Marginal branch of right coronary artery_FJ2674.obj
+Left lower secondary canine tooth_FJ1260.obj
+Left inferior ulnar collateral artery_FJ2215.obj
+Medial segmental bronchial tree_FJ2451.obj
+Left globus pallidus_FJ1757.obj
+Anterior chamber of right eyeball_FJ1332.obj
+Branch of right anterior choroidal artery to posterior limb of right internal capsule_FJ1674.obj
+Right superior segmental bronchial tree_FJ2497.obj
+Left caudate nucleus_FJ1754.obj
+Left lateral circumflex femoral artery_FJ2078.obj
+Right medial superior genicular artery_FJ2166.obj
+Anterior part of right superior temporal gyrus_FJ1838.obj
+Left anterior basal segmental bronchial tree_FJ2538.obj
+Left superior segmental artery_FJ2888.obj
+Right superior parietal lobule_FJ1836.obj
+Right medial frontobasal artery_FJ1690.obj
+Right ciliary ganglion_FJ1339.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2642.obj
+Left fibular vein_FJ2184.obj
+Right pulmonary artery_FJ3019.obj
+Bronchial artery_FJ1933.obj
+Left common iliac vein_FJ3465.obj
+Right lateral plantar artery_FJ2159.obj
+Right superior segmental bronchial tree_FJ2459.obj
+Caudate lobe branch of right portal vein_FJ1914.obj
+Distal perforating artery_FJ2058.obj
+Right posterior basal segmental vein_FJ3058.obj
+Left ophthalmic artery_FJ1695M.obj
+Right subcostal artery_FJ1967.obj
+Right second metacarpal bone_FJ3352.obj
+Left subscapular artery_FJ2246.obj
+Right lower second secondary premolar tooth_FJ1271.obj
+Posterior superior tributary of right hepatic biliary tree_FJ3110.obj
+Left first metacarpal bone_FJ3240.obj
+Right extensor carpi ulnaris_FJ1472.obj
+Left median antebrachial vein_FJ2234.obj
+Fifth lumbar vertebra_FJ3168.obj
+First lumbar vertebra_FJ3157.obj
+Left obliquus capitis inferior_FJ1563.obj
+Left lateral basal segmental artery_FJ2882.obj
+Left inferior phrenic artery_FJ3520.obj
+Right sternocleidomastoid_FJ1595.obj
+Left posterior basal segmental vein_FJ2948.obj
+Posterior division of left renal artery_FJ3475.obj
+Left brachioradialis_FJ1487M.obj
+Lateral branch of right lateral basal segmental artery_FJ3004.obj
+Left subclavian vein_FJ3486.obj
+Right posterior basal segmental vein_FJ3047.obj
+Right inferior epigastric vein_FJ3605.obj
+Dorsal venous arch of right foot_FJ2061.obj
+Right superior segmental bronchial tree_FJ2501.obj
+Proper palmar digital vein of right index finger_FJ2355.obj
+Second right anterior branch of anterior interventricular branch of left coronary artery_FJ2646.obj
+Dorsal venous arch of right foot_FJ2062.obj
+Vomer_FJ3395.obj
+Left iris_FJ1297.obj
+Anterior part of right apical segmental artery_FJ2978.obj
+Distal part of jejunum_FJ2613.obj
+Plantar venous arch of right foot_FJ2129.obj
+Distal part of jejunum_FJ2619.obj
+Right semispinalis capitis_FJ1538.obj
+Left third metacarpal bone_FJ3246.obj
+Left lateral basal segmental artery_FJ2921.obj
+Left vastus intermedius_FJ1441M.obj
+Left lower lateral secondary incisor tooth_FJ1259.obj
+Anterior cardiac vein_FJ2725.obj
+Mesentery of small intestine_FJ3396.obj
+Insular part of left middle cerebral artery_FJ1660M.obj
+Superior segmental branch of right renal artery_FJ2042.obj
+Right abductor pollicis longus_FJ1484.obj
+Middle part of ileum_FJ2577.obj
+Left anterior cusp of pulmonary valve_FJ2417.obj
+Short head of left biceps femoris_FJ1444M.obj
+Median sacral vein_FJ3541.obj
+Right fifth rib_FJ3342.obj
+Left superficial cervical artery_FJ2256.obj
+Superior branch of medial segmental artery_FJ2986.obj
+Left levator veli palatini_FJ2741.obj
+Superior oblique part of left longus colli_FJ1600.obj
+Superior phrenic vein_FJ3649.obj
+Interpeduncular fossa_FJ1811.obj
+Right median antebrachial vein_FJ2286.obj
+Right external iliac vein_FJ3568.obj
+Hepatovenous segment V_FJ2821.obj
+_FJ1552.obj
+Right hip bone_FJ3152.obj
+Right deep plantar artery_FJ2136.obj
+Right lateral circumflex femoral vein_FJ2201.obj
+Right scalenus medius_FJ1593.obj
+Right lower first secondary molar tooth_FJ1268.obj
+Suspensory ligament of right lens_FJ1371.obj
+Right postcentral gyrus_FJ1798.obj
+Left anterior parietal artery_FJ1667M.obj
+Left lower first secondary molar tooth_FJ1254.obj
+Left subscapularis_FJ1504M.obj
+Right second rib_FJ3336.obj
+Right apical segmental bronchial tree_FJ2521.obj
+Distal part of ileum_FJ2588.obj
+Inferior pancreaticoduodenal artery_FJ3446.obj
+Left arteria princeps pollicis_FJ2339.obj
+Left internal jugular vein_FJ3485.obj
+Left occipital lobe_FJ1791.obj
+Left fusiform gyrus_FJ1783.obj
+Left superior segmental bronchial tree_FJ2448.obj
+First plantar interosseous of left foot_FJ1384M.obj
+Middle phalanx of left third toe_FJ3294.obj
+Left lateral basal segmental vein_FJ2953.obj
+Left anterior circumflex humeral vein_FJ2213.obj
+Left anterior ulnar recurrent artery_FJ2259.obj
+Left posterior segmental vein_FJ2929.obj
+Left colic vein_FJ3400.obj
+Posterior division of left renal artery_FJ3473.obj
+Right palmar metacarpal vein_FJ2290.obj
+Humeral head of right flexor carpi ulnaris_FJ1473.obj
+Right arytenoid cartilage_FJ2792.obj
+Lateral head of right gastrocnemius_FJ1394.obj
+Middle phalanx of right middle finger_FJ3306.obj
+Set of dorsal digital veins_FJ2185.obj
+Middle part of ileum_FJ2584.obj
+Left stylohyoid ligament_FJ2763.obj
+Right anterior basal segmental bronchial tree_FJ2452.obj
+Left radial recurrent artery_FJ2243.obj
+Precommunicating part of left posterior cerebral artery_FJ1723M.obj
+Left eleventh rib_FJ3226.obj
+Right cervical rotator_FJ1524.obj
+Left internal thoracic artery_FJ1972.obj
+Left second posterior intercostal artery_FJ1974.obj
+Right iliolumbar vein_FJ3603.obj
+Lateral segmental bronchial tree_FJ2505.obj
+Transverse head of left adductor pollicis_FJ1515M.obj
+Middle phalanx of left index finger_FJ3296.obj
+Inferior part of right anterior segmental vein_FJ3021.obj
+Right transversus thoracis_FJ1461.obj
+Lateral branch of right superior segmental artery_FJ2993.obj
+Right inferior phrenic artery_FJ3626.obj
+Middle phalanx of left ring finger_FJ3291.obj
+Right inferior pharyngeal constrictor_FJ2752.obj
+Right anterior spinal artery_FJ1657.obj
+Sixth cervical vertebra_FJ3170.obj
+Right femoral artery_FJ2143.obj
+Left medial frontobasal artery_FJ1690M.obj
+_FJ1665.obj
+Xiphoid process_FJ3153.obj
+Distal part of jejunum_FJ2620.obj
+Sesamoid bone of right foot_FJ3376.obj
+Right subscapular artery_FJ2298.obj
+Sternocostal part of left pectoralis major_FJ1464M.obj
+Circumflex branch of left coronary artery_FJ2653.obj
+Left apical segmental artery_FJ2915.obj
+Mandible_FJ3289.obj
+Anterior interventricular vein_FJ2661.obj
+Left opponens pollicis_FJ1501M.obj
+Radial collateral branch of left deep brachial artery_FJ2261.obj
+Trunk of anterior interventricular branch of left coronary artery_FJ2631.obj
+Left inferior lateral genicular artery_FJ2076.obj
+Right fourth metatarsal bone_FJ3357.obj
+Right lateral thoracic vein_FJ2285.obj
+Proper palmar digital vein of left middle finger_FJ2340.obj
+Right cephalic vein_FJ2272.obj
+Right lower central secondary incisor tooth_FJ1272.obj
+Left inferior phrenic artery_FJ3519.obj
+Proximal part of ileum_FJ2596.obj
+Left insula_FJ1748.obj
+Superior phrenic vein_FJ3652.obj
+Right musculophrenic artery_FJ1969.obj
+Right second costal cartilage_FJ3335.obj
+Left apical segmental artery_FJ2916.obj
+Right omohyoid_FJ1586.obj
+Right portal vein_FJ1913.obj
+Right frontal nerve_FJ1341.obj
+Distal phalanx of left fourth toe_FJ3181.obj
+Right vastus intermedius_FJ1441.obj
+Hepatovenous segment II_FJ2818.obj
+Right inferior epigastric artery_FJ3604.obj
+Left tibialis anterior_FJ1439M.obj
+Left cingulate gyrus_FJ1739.obj
+Left radial artery_FJ2242.obj
+Left inferior temporal gyrus_FJ1746.obj
+Left semispinalis cervicis_FJ1539M.obj
+Short head of right biceps brachii_FJ1512.obj
+Left thyrohyoid_FJ1577.obj
+Left radial vein_FJ2244.obj
+Left pectineus_FJ1427M.obj
+Right anterior interosseous artery_FJ2266.obj
+Right inferior frontal gyrus_FJ1745.obj
+Tenth thoracic vertebra_FJ3154.obj
+Left arteria radialis indicis_FJ2332.obj
+Left sclera_FJ1317.obj
+Right internal iliac vein_FJ3609.obj
+Left medial geniculate body_FJ1816M.obj
+Left dorsal artery of penis_FJ3497.obj
+Superior part of right anterior segmental vein_FJ3027.obj
+Proximal phalanx of left little finger_FJ3314.obj
+Right lateral basal segmental vein_FJ3060.obj
+Right apical segmental bronchial tree_FJ2524.obj
+Distal part of jejunum_FJ2616.obj
+Left twelfth rib_FJ3227.obj
+Orbital gyrus_FJ1794.obj
+Descending branch of left colic artery_FJ3428.obj
+Right lacrimal lake_FJ1352.obj
+Intervertebral disk of third thoracic vertebra_FJ3224.obj
+Eleventh thoracic vertebra_FJ3155.obj
+Right triquetral_FJ3390.obj
+Thoracic rotator_FJ1525M.obj
+Right posterior parietal artery_FJ1716.obj
+Left superior pharyngeal constrictor_FJ2747.obj
+Lumbar vein_FJ3635.obj
+Left fibular vein_FJ2187.obj
+Medial branch of left superior cerebellar artery_FJ1688M.obj
+Left pericallosal artery_FJ1699M.obj
+Right arteria princeps pollicis_FJ2372.obj
+Intermediomedial branch of left callosomarginal artery_FJ1681M.obj
+Interosseous membrane of left leg_FJ1392M.obj
+Left gemellus superior_FJ1417M.obj
+Left dorsalis pedis artery_FJ2073.obj
+Superior lingular bronchial tree_FJ2477.obj
+Posterior papillary muscle of right ventricle_FJ2430.obj
+Left lateral rectus_FJ1304.obj
+Straight part of right cricothyroid_FJ2801.obj
+Right brachial artery_FJ2271.obj
+Right obliquus capitis inferior_FJ1584.obj
+Right thyro-arytenoid_FJ2803.obj
+Left anterior segmental artery_FJ2910.obj
+Left posterior segmental artery_FJ2912.obj
+Left iliotibial tract_FJ1423M.obj
+Left brachialis_FJ1486M.obj
+Right sternothyroid_FJ1597.obj
+Right submandibular gland_FJ2768.obj
+Left palatine bone_FJ3273.obj
+Left marginal vein_FJ2704.obj
+Left lateral basal segmental bronchial tree_FJ2534.obj
+Medial branch of right pontine artery_FJ1689.obj
+Left superior pulmonary vein_FJ2925.obj
+Right posterior inferior cerebellar artery_FJ1710.obj
+Artery of central sulcus_FJ1665M.obj
+Middle part of ileum_FJ2581.obj
+Right genioglossus_FJ2750.obj
+Left supratrochlear nerve_FJ1326.obj
+Left tibialis posterior_FJ1440M.obj
+Right apical segmental bronchial tree_FJ2525.obj
+Right extensor hallucis brevis_FJ1407.obj
+Left anterior segmental bronchial tree_FJ2473.obj
+Inferior part of medial segmental vein_FJ3033.obj
+Intervertebral disk of second lumbar vertebra_FJ3214.obj
+Commissure of fornix of forebrain_FJ1741.obj
+Caudal pancreatic artery_FJ3419.obj
+Left posterior basal segmental artery_FJ2892.obj
+Right first costal cartilage_FJ3333.obj
+Right costocervical trunk_FJ2276.obj
+Fifth cervical vertebra_FJ3167.obj
+Intervertebral disk of seventh thoracic vertebra_FJ3206.obj
+Right apical segmental bronchial tree_FJ2522.obj
+Mesoappendix_FJ3397.obj
+Wall of right atrium_FJ2439.obj
+Axis_FJ3177.obj
+Left testicular vein_FJ3533.obj
+Cystic duct_FJ3080.obj
+Right fourth costal cartilage_FJ3339.obj
+Left apical segmental vein_FJ2961.obj
+Medial inferior segmental tributary of middle hepatic vein_FJ3084.obj
+Left obliquus capitis superior_FJ1564.obj
+Left medial superior genicular artery_FJ2083.obj
+Peduncle of midbrain_FJ1774.obj
+Laterobasal branch of right posterior basal segmental artery_FJ3014.obj
+Left anterior segmental artery_FJ2906.obj
+Cricoid cartilage_FJ2440.obj
+Left medial occipital artery_FJ1691M.obj
+Inferior lingular vein_FJ2934.obj
+Right cuneiform cartilage_FJ2795.obj
+Cavity of left atrium_FJ2425.obj
+Right abductor pollicis brevis_FJ1483.obj
+Lamina terminalis_FJ1764.obj
+Right middle suprarenal artery_FJ3586.obj
+Ulnar head of right flexor carpi ulnaris_FJ1518.obj
+Distal phalanx of left second toe_FJ3179.obj
+Left mylohyoid_FJ1562.obj
+Right flexor hallucis longus_FJ1415.obj
+Right medial occipital artery_FJ1691.obj
+Septal nasal cartilage_FJ2557.obj
+Deep dorsal vein of penis_FJ2056.obj
+_FJ1553.obj
+Peduncle of midbrain_FJ1821.obj
+Anterior interventricular vein_FJ2658.obj
+Left ulna_FJ3286.obj
+Left common interosseous artery_FJ2223.obj
+Left portal vein_FJ1893.obj
+Left portal vein_FJ2404.obj
+Proper palmar digital vein of left little finger_FJ2329.obj
+Right gastro-epiploic artery_FJ3596.obj
+Right palmar metacarpal artery_FJ2289.obj
+Apical part of right apical segmental artery_FJ3017.obj
+Proper palmar digital vein of left little finger_FJ2319.obj
+Right posterior inferior cerebellar artery_FJ1703.obj
+Splenic vein_FJ3641.obj
+Hypothalamic branch of left posterior communicating artery_FJ1679M.obj
+Right long plantar ligament_FJ1424.obj
+Left rectus capitis posterior major_FJ1567.obj
+Right inferior nasal concha_FJ3369.obj
+Lateral inferior tributary of left hepatic biliary tree_FJ3089.obj
+Thyroid cartilage_FJ2808.obj
+Right thyrocervical trunk_FJ2307.obj
+Left superficial epigastric artery_FJ3529.obj
+Lamina terminalis_FJ1812.obj
+Distal phalanx of left index finger_FJ3183.obj
+Transverse part of left trapezius_FJ1554M.obj
+Right pubococcygeus_FJ2550.obj
+_FJ1455.obj
+Middle part of ileum_FJ2576.obj
+Left anterior segmental bronchial tree_FJ2467.obj
+Left first costal cartilage_FJ3239.obj
+_FJ1547.obj
+Left posterior tibial artery_FJ2087.obj
+Set of palmar interossei of right hand_FJ1511.obj
+Right gracilis_FJ1421.obj
+Left femur_FJ3259.obj
+Left ninth rib_FJ3236.obj
+Wall of ventricle_FJ2428.obj
+Left apical segmental artery_FJ2917.obj
+Median thyrohyoid ligament_FJ2790.obj
+Left first common palmar digital artery_FJ2315.obj
+Right inferior phrenic artery_FJ3620.obj
+Left digastric_FJ1560.obj
+Wall of left atrium_FJ2438.obj
+Left splenial artery_FJ1677M.obj
+Left adductor magnus_FJ1403M.obj
+Proximal phalanx of right middle finger_FJ3325.obj
+Right internal iliac vein_FJ3607.obj
+Hepatovenous segment III_FJ2819.obj
+Right thyrohyoid_FJ1599.obj
+Left hip bone_FJ3288.obj
+Right deep cervical artery_FJ2278.obj
+Set of dorsal digital arteries_FJ2197.obj
+Superficial head of left flexor pollicis brevis_FJ1514M.obj
+Right posterior cusp of aortic valve_FJ2431.obj
+Hair of head_FJ2813.obj
+Superior vermian branch of medial branch of right superior cerebellar artery_FJ1728.obj
+Cricoid cartilage_FJ2769.obj
+Second lumbrical of right foot_FJ1385.obj
+Optic part of left retina_FJ1316.obj
+Flexor digiti minimi brevis of left foot_FJ1391M.obj
+Left lateral ventricle_FJ1767.obj
+Opponens digiti minimi of right hand_FJ1482.obj
+Right posterior segmental bronchial tree_FJ2516.obj
+Fourth lumbrical of left foot_FJ1389M.obj
+Spinalis_FJ1543M.obj
+Clavicular part of left deltoid_FJ1468M.obj
+Proximal phalanx of left big toe_FJ3329.obj
+Left posterior inferior cerebellar artery_FJ1706M.obj
+Conus branch of anterior interventricular branch of left coronary artery_FJ2644.obj
+Right fifth metatarsal bone_FJ3359.obj
+Posterior division of right renal artery_FJ3573.obj
+Intervertebral disk of sixth cervical vertebra_FJ3220.obj
+Check ligament of right medial rectus_FJ1335.obj
+Left abductor pollicis longus_FJ1484M.obj
+Left fibularis brevis_FJ1409M.obj
+Intervertebral disk of tenth thoracic vertebra_FJ3209.obj
+Set of left levatores costarum longi_FJ1463M.obj
+Right fibularis tertius_FJ1411.obj
+Inferior oblique part of left longus colli_FJ1557.obj
+Right arteria radialis indicis_FJ2363.obj
+Right parahippocampal gyrus_FJ1786.obj
+Left arcuate artery_FJ2067.obj
+Middle phalanx of right second toe_FJ3300.obj
+Right superficial palmar venous arch_FJ2301.obj
+Right inferior suprarenal artery_FJ3584.obj
+Superior phrenic vein_FJ3648.obj
+Opponens digiti minimi of right foot_FJ1399.obj
+Right supra-orbital nerve_FJ1376.obj
+Deltoid branch of right thoraco-acromial artery_FJ2282.obj
+First thoracic vertebra_FJ3158.obj
+Artery of right precentral sulcus_FJ1668.obj
+Distal part of ileum_FJ2595.obj
+Proper palmar digital vein of left ring finger_FJ2327.obj
+Right superior segmental vein_FJ3065.obj
+Pancreatic duct_FJ1896.obj
+Right axillary artery_FJ2268.obj
+Left rectus capitis anterior_FJ1566.obj
+Third lumbrical of right foot_FJ1387.obj
+Right globus pallidus_FJ1805.obj
+Gallbladder_FJ2817.obj
+Right anterior segmental bronchial tree_FJ2512.obj
+Right digastric_FJ1556.obj
+Right brachiocephalic vein_FJ3583.obj
+Set of lumbricals of right hand_FJ1510.obj
+Left extensor indicis_FJ1493M.obj
+Right lateral frontobasal artery_FJ1686.obj
+Brachium of right inferior colliculus_FJ1809.obj
+Celiac trunk_FJ3421.obj
+Anterior division of left renal artery_FJ3463.obj
+Superior vermian branch of medial branch of left superior cerebellar artery_FJ1728M.obj
+Left apical segmental bronchial tree_FJ2444.obj
+Left choroid_FJ1285.obj
+Left lateral superior genicular artery_FJ2080.obj
+Right internal carotid artery_FJ1682.obj
+Left posterior segmental bronchial tree_FJ2466.obj
+Middle part of ileum_FJ2578.obj
+Right iliacus_FJ1422.obj
+Right posterior inferior cerebellar artery_FJ1701.obj
+Left palmar metacarpal artery_FJ2237.obj
+Right fibularis brevis_FJ1409.obj
+Right conus elasticus_FJ2794.obj
+Left thoracodorsal artery_FJ2253.obj
+Short head of right biceps femoris_FJ1444.obj
+Right superior segmental vein_FJ3050.obj
+Acromial part of right deltoid_FJ1467.obj
+Left optic nerve_FJ1313.obj
+First anterior ventricular branch of right coronary artery_FJ2673.obj
+Proximal part of jejunum_FJ2623.obj
+Spleen_FJ2561.obj
+Left lateral thyrohyoid ligament_FJ2779.obj
+Tributary of plantar venous arch_FJ2113.obj
+White matter of left cerebral hemisphere_FJ1758.obj
+Right extensor pollicis longus_FJ1495.obj
+Right lateral basal segmental bronchial tree_FJ2492.obj
+Left popliteal vein_FJ2117.obj
+Right obliquus capitis superior_FJ1585.obj
+Proximal phalanx of right little finger_FJ3323.obj
+Middle phalanx of right little toe_FJ3305.obj
+Right rhomboid minor_FJ1537.obj
+Right posterior inferior cerebellar artery_FJ1709.obj
+Right inferior pulmonary vein_FJ3040.obj
+Distal phalanx of right second toe_FJ3189.obj
+Left arytenoid cartilage_FJ2775.obj
+Anterior part of right apical segmental artery_FJ3000.obj
+Second thoracic vertebra_FJ3160.obj
+Left inferior medial genicular artery_FJ2077.obj
+Apical part of right apical segmental vein_FJ3068.obj
+Left posterior inferior cerebellar artery_FJ1707M.obj
+Middle phalanx of right ring finger_FJ3292.obj
+Middle phalanx of left fourth toe_FJ3295.obj
+Right fourth rib_FJ3340.obj
+Superior lingular artery_FJ2898.obj
+Left posterior basal segmental bronchial tree_FJ2528.obj
+Right lower secondary canine tooth_FJ1274.obj
+Left anterior basal segmental bronchial tree_FJ2536.obj
+Posterior interventricular branch of right coronary artery_FJ2697.obj
+Left cornea_FJ1289.obj
+Left superior rectus_FJ1323.obj
+Left testis_FJ3138.obj
+Right fibular vein_FJ2194.obj
+Left quadratus femoris_FJ1432M.obj
+Right superior cerebellar artery_FJ1726.obj
+Tuber cinereum_FJ1780.obj
+Left internal iliac artery_FJ3468.obj
+Proximal phalanx of left third toe_FJ3311.obj
+Medial head of right triceps brachii_FJ1480.obj
+Distal phalanx of right third toe_FJ3190.obj
+Left long ciliary nerve_FJ1318.obj
+Middle part of ileum_FJ2580.obj
+Inferior phrenic vein_FJ3447.obj
+Left lobe branch of left hepatic artery_FJ1874.obj
+Choroid plexus of cerebral hemisphere_FJ1755.obj
+Left stria medullaris of thalamus_FJ1777.obj
+Left iliocostalis thoracis_FJ1528M.obj
+Brachium of right superior colliculus_FJ1736.obj
+Left colic artery_FJ3494.obj
+Superior vena cava_FJ3645.obj
+Set of dorsal digital arteries_FJ2318.obj
+Left anterior cerebral artery_FJ1654M.obj
+Set of posterior temporal branches of lateral occipital artery_FJ1719M.obj
+Ascending lumbar vein_FJ3658.obj
+Intervertebral disk of sixth thoracic vertebra_FJ3205.obj
+Left upper first secondary premolar tooth_FJ1262.obj
+Right posterior segmental vein_FJ3022.obj
+Flexor digiti minimi brevis of right hand_FJ1470.obj
+Left nasolacrimal duct_FJ1302.obj
+Left internal iliac vein_FJ3471.obj
+Right posterior communicating artery_FJ1713.obj
+Right middle pharyngeal constrictor_FJ2742.obj
+Right superficial epigastric vein_FJ2178.obj
+Left deep cervical artery_FJ2226.obj
+Right internal iliac vein_FJ3572.obj
+Left puborectalis_FJ2546.obj
+Brachiocephalic artery_FJ3417.obj
+Left extensor hallucis longus_FJ1408M.obj
+Medial head of left flexor hallucis brevis_FJ1396M.obj
+Proximal part of ileum_FJ2605.obj
+Left subcostal artery_FJ1977.obj
+First posterior ventricular branch of right coronary artery_FJ2719.obj
+Right second posterior intercostal artery_FJ1950.obj
+Cavity of left ventricle_FJ2422.obj
+Left humerus_FJ3262.obj
+Celiac artery_FJ2013.obj
+Abductor digiti minimi of left foot_FJ1390M.obj
+Right upper secondary canine tooth_FJ1281.obj
+Sacrum_FJ3393.obj
+Acromial part of left deltoid_FJ1467M.obj
+Apical part of right apical segmental artery_FJ2967.obj
+Left extensor carpi ulnaris_FJ1472M.obj
+Right posterior basal segmental vein_FJ3041.obj
+Ileal artery_FJ3437.obj
+Right extensor carpi radialis brevis_FJ1489.obj
+Corpus cavernosum of penis_FJ3132.obj
+Trunk of left portal vein_FJ3102.obj
+Esophageal artery_FJ1934.obj
+Left fornix of forebrain_FJ1756.obj
+Right portal vein_FJ2405.obj
+Left fourth rib_FJ3231.obj
+Right fibular vein_FJ2190.obj
+Left longissimus thoracis_FJ1535M.obj
+Common palmar digital vein_FJ2352.obj
+Left inferior colliculus_FJ1762.obj
+Right fourth metacarpal bone_FJ3356.obj
+Intervertebral disk of fifth thoracic vertebra_FJ3204.obj
+Right scalenus posterior_FJ1594.obj
+Lateral proper palmar digital artery of left little finger_FJ2336.obj
+Medial superior segmental tributary of left hepatic vein_FJ3101.obj
+Left parietal bone_FJ3274.obj
+Proximal part of jejunum_FJ2617.obj
+Left anterior basal segmental artery_FJ2887.obj
+Proximal part of ileum_FJ2574.obj
+Left anterior basal segmental vein_FJ2956.obj
+Set of right levatores costarum breves_FJ1462.obj
+Posterior vein of left ventricle_FJ2709.obj
+Left corona ciliaris_FJ1287.obj
+Anterior part of lateral segmental vein_FJ3035.obj
+Right gemellus inferior_FJ1416.obj
+Anterior commissure_FJ1734.obj
+Hepatovenous segment VIII_FJ2824.obj
+Precuneal branch of left pericallosal artery_FJ1671M.obj
+First posterior ventricular branch of right coronary artery_FJ2715.obj
+Right subscapular vein_FJ2299.obj
+Right semitendinosus_FJ1436.obj
+Left deferent duct_FJ3135.obj
+Proximal part of jejunum_FJ2627.obj
+Right inferior gluteal vein_FJ3606.obj
+Right posterior segmental vein_FJ3069.obj
+Anterior branch of lateral segmental artery_FJ2982.obj
+Posterior superior segmental hepatic artery_FJ3116.obj
+Right posterior inferior cerebellar artery_FJ1706.obj
+Left sternocleidomastoid_FJ1573.obj
+Right stylohyoid ligament_FJ2764.obj
+Left plantaris_FJ1429M.obj
+Left superior epigastric vein_FJ3530.obj
+Transverse colon_FJ2572.obj
+Proximal phalanx of right little toe_FJ3324.obj
+Left calcaneal tendon_FJ1405M.obj
+Right kidney_FJ3147.obj
+Left obturator internus_FJ1426M.obj
+Set of calcaneal branches of posterior tibial artery_FJ2091.obj
+Left genicular vein_FJ2124.obj
+Right lateral thoracic artery_FJ1938.obj
+Right digastric_FJ1579.obj
+Right serratus posterior superior_FJ1542.obj
+Right levator veli palatini_FJ2753.obj
+Anterior inferior segmental hepatic artery_FJ3075.obj
+Right thalamus_FJ1827.obj
+Left ascending lumbar vein_FJ3493.obj
+Left posterior ethmoidal nerve_FJ1315.obj
+Left gastroepiploic vein_FJ3502.obj
+Lateral head of left triceps brachii_FJ1477M.obj
+Left anterior basal segmental vein_FJ2960.obj
+Left hippocampus_FJ1759.obj
+Right posterior ethmoidal nerve_FJ1366.obj
+Left posterior basal segmental artery_FJ2919.obj
+Trachea_FJ2541.obj
+Posterior inferior segmental hepatic artery_FJ3114.obj
+Set of posterior cervical intertransversarii_FJ1553M.obj
+Trunk of right renal artery_FJ3576.obj
+Suspensory ligament of left lens_FJ1320.obj
+Hepatic artery proper_FJ3081.obj
+Trunk of inferior terminal branch of right middle cerebral artery_FJ1718.obj
+Right longissimus cervicis_FJ1534.obj
+Left circumflex scapular artery_FJ2221.obj
+Set of perforating arteries_FJ2094.obj
+Right descending genicular artery_FJ2137.obj
+Right ophthalmic artery_FJ1695.obj
+Superior lingular bronchial tree_FJ2540.obj
+Right lower first secondary premolar tooth_FJ1269.obj
+Middle cardiac vein_FJ2679.obj
+Anterior part of right apical segmental vein_FJ3042.obj
+Right medial brachial vein_FJ2341.obj
+Common hepatic artery_FJ3078.obj
+Posterior interventricular branch of right coronary artery_FJ2700.obj
+Right middle genicular artery_FJ2167.obj
+Left posterior tibial vein_FJ2118.obj
+Left extensor carpi ulnaris_FJ1517M.obj
+Lateral papillary muscle of left ventricle_FJ2429.obj
+Set of dorsal metacarpal arteries_FJ2348.obj
+Second lumbar vertebra_FJ3159.obj
+Right callosomarginal artery_FJ1676.obj
+Middle cardiac vein_FJ2689.obj
+Left posterior crico-arytenoid_FJ2782.obj
+Right superior rectus_FJ1374.obj
+Inferior branch of right oculomotor nerve_FJ1344.obj
+Left semitendinosus_FJ1436M.obj
+Third right anterior branch of anterior interventricular branch of left coronary artery_FJ2647.obj
+Right third rib_FJ3338.obj
+Right common iliac artery_FJ3565.obj
+Right brachioradialis_FJ1487.obj
+Anterior interventricular vein_FJ2663.obj
+Left subclavian artery_FJ3479.obj
+Circumflex branch of left coronary artery_FJ2649.obj
+Right brachialis_FJ1486.obj
+Proper palmar digital vein of left ring finger_FJ2328.obj
+Right extensor carpi ulnaris_FJ1517.obj
+Superior rectal artery_FJ3656.obj
+Caudate lobe of liver_FJ2816.obj
+Pre-hepatic portal vein_FJ3082.obj
+Right extensor indicis_FJ1493.obj
+Dorsal pancreatic artery_FJ3430.obj
+Inferior mesenteric artery_FJ3442.obj
+Anterior cecal artery_FJ3406.obj
+Left inferior pulmonary vein_FJ2944.obj
+Left musculophrenic vein_FJ1988.obj
+Prostate_FJ3139.obj
+Distal phalanx of right middle finger_FJ3196.obj
+Dorsal metacarpal vein_FJ2186.obj
+Distal phalanx of right index finger_FJ3193.obj
+Interosseous membrane of right forearm_FJ1476.obj
+Right nasal bone_FJ3378.obj
+Anterior superior pancreaticoduodenal artery_FJ3409.obj
+Left middle genicular artery_FJ2084.obj
+Left anterior basal segmental artery_FJ2883.obj
+Left second common palmar digital artery_FJ2316.obj
+Right lateral superior genicular artery_FJ2162.obj
+Right plantaris_FJ1429.obj
+Right internal pudendal vein_FJ3610.obj
+Right obturator externus_FJ1425.obj
+Set of perforating veins_FJ2174.obj
+Medulla oblongata_FJ1769.obj
+Clavicular part of left pectoralis major_FJ1447M.obj
+Left inferior oblique_FJ1294.obj
+Left fibularis longus_FJ1410M.obj
+Left anterior segmental bronchial tree_FJ2472.obj
+Left inferior pulmonary vein_FJ2950.obj
+Left angular gyrus_FJ1732.obj
+Trunk of left renal artery_FJ3476.obj
+Middle colic artery_FJ3542.obj
+Left trapezium_FJ3283.obj
+Proper palmar digital vein of left middle finger_FJ2326.obj
+Oblique part of left cricothyroid_FJ2781.obj
+Tendinous arch of levator ani_FJ1465M.obj
+Middle part of ileum_FJ2586.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2640.obj
+Right apical segmental bronchial tree_FJ2520.obj
+Right thoracodorsal vein_FJ2306.obj
+Left upper central secondary incisor tooth_FJ1265.obj
+Taenia libera_FJ2568.obj
+Abdominal part of right pectoralis major_FJ1446.obj
+Posterior temporal branch of right middle cerebral artery_FJ1717.obj
+Left common carotid artery_FJ3483.obj
+Left lower first secondary premolar tooth_FJ1255.obj
+Right vastus lateralis_FJ1442.obj
+Left sublingual gland_FJ2765.obj
+Proper palmar digital vein of left index finger_FJ2324.obj
+Anterior part of right apical segmental vein_FJ3053.obj
+Uvular muscle_FJ2762.obj
+Distal phalanx of right big toe_FJ3192.obj
+Left pulmonary artery_FJ2924.obj
+Left marginal vein_FJ2705.obj
+Right anterior tibial artery_FJ2130.obj
+Branch of left middle cerebral artery to left angular gyrus_FJ1673M.obj
+Ileal branch of inferior branch of ileocolic artery_FJ2034.obj
+Midbrain_FJ1817.obj
+Right ulnar artery_FJ2310.obj
+Left intermediate cuneiform bone_FJ3264.obj
+Ureteric segment of right renal artery_FJ3581.obj
+Left polar temporal artery_FJ1712M.obj
+Left anterior basal segmental artery_FJ2886.obj
+Left rectus capitis lateralis_FJ1569.obj
+Left gluteus medius_FJ1419M.obj
+Right arteria radialis indicis_FJ2342.obj
+Ascending branch of inferior branch of ileocolic artery_FJ3414.obj
+Left posterior basal segmental artery_FJ2881.obj
+Right thyrohyoid membrane_FJ2804.obj
+Right axillary vein_FJ2269.obj
+Trunk of right portal vein_FJ3122.obj
+Anterior division of left renal artery_FJ3459.obj
+Right lateral rectus_FJ1355.obj
+Right gastric vein_FJ3595.obj
+Left conus elasticus_FJ2777.obj
+Plantar metatarsal artery_FJ2096.obj
+Left superior gluteal vein_FJ3531.obj
+Left scapula_FJ3279.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2635.obj
+Left fifth metacarpal bone_FJ3252.obj
+Left semispinalis thoracis_FJ1540M.obj
+Trunk of superior mesenteric artery_FJ3644.obj
+Right medial cuneiform bone_FJ3377.obj
+Right quadratus femoris_FJ1432.obj
+Conus branch of anterior interventricular branch of left coronary artery_FJ2643.obj
+Right flexor carpi radialis_FJ1496.obj
+Left middle temporal gyrus_FJ1789.obj
+Left musculophrenic artery_FJ1979.obj
+Fourth cervical vertebra_FJ3164.obj
+Right inferior ulnar collateral artery_FJ2267.obj
+Diagonal branch of anterior descending branch of left coronary artery_FJ2636.obj
+Anterolateral central branch of right middle cerebral artery_FJ1662.obj
+Mediobasal branch of right posterior basal segmental artery_FJ3012.obj
+Right third metatarsal bone_FJ3355.obj
+Septum of telencephalon_FJ1832.obj
+Medial branch of right superior segmental artery_FJ2994.obj
+Medial inferior segmental branch of left portal vein_FJ3128.obj
+Left gracilis_FJ1421M.obj
+Trunk of inferior terminal branch of left middle cerebral artery_FJ1718M.obj
+Optic chiasm_FJ1818.obj
+Right parietal bone_FJ3380.obj
+Left posterior basal segmental bronchial tree_FJ2527.obj
+Left corniculate cartilage_FJ2776.obj
+Tendon of right levator palpebrae superioris_FJ1343.obj
+Posterior vein of left ventricle_FJ2701.obj
+Left second costal cartilage_FJ3242.obj
+Left dorsal scapular artery_FJ2232.obj
+Posterior intercostal arteries_FJ1975.obj
+Anterior communicating artery_FJ1655.obj
+Left oblique arytenoid_FJ2780.obj
+Caudate lobe tributary of left hepatic biliary tree_FJ1883.obj
+Left posterior basal segmental artery_FJ2903.obj
+Right zygomatic bone_FJ3392.obj
+_FJ1548.obj
+Right genicular vein_FJ2153.obj
+Right optic nerve_FJ1364.obj
+Anterior leaflet of tricuspid valve_FJ2421.obj
+Posterior division of left renal artery_FJ3474.obj
+Clavicular part of right pectoralis major_FJ1447.obj
+Left cephalic vein_FJ2220.obj
+Left hamate_FJ3261.obj
+Oblique head of right adductor pollicis_FJ1481.obj
+Right posterior circumflex humeral artery_FJ2292.obj
+Right extensor digitorum_FJ1492.obj
+Right seventh costal cartilage_FJ3345.obj
+Left dorsal carpal branch of ulnar artery_FJ2236.obj
+Left radius_FJ3277.obj
+Descending aorta_FJ3427.obj
+Posterior intercostal arteries_FJ1961.obj
+Left brachial artery_FJ2219.obj
+Anterior temporal branch of right lateral occipital artery_FJ1661.obj
+Trunk of gastroduodenal artery_FJ3432.obj
+Distal phalanx of right ring finger_FJ3197.obj
+Superior mesenteric artery_FJ2011.obj
+Anterolateral central branch of left middle cerebral artery_FJ1663M.obj
+Left stylohyoid_FJ1576.obj
+Right lacrimal nerve_FJ1351.obj
+Right serratus anterior_FJ1459.obj
+Left cuneiform cartilage_FJ2773.obj
+Right posterior basal segmental vein_FJ3045.obj
+Anterior part of lateral segmental vein_FJ3036.obj
+Left fourth metacarpal bone_FJ3249.obj
+Set of dorsal interossei of right hand_FJ1509.obj
+Left ulnar vein_FJ2260.obj
+Septal branch of anterior interventricular artery_FJ2734.obj
+Transverse head of right adductor pollicis_FJ1515.obj
+Right subclavian artery_FJ3579.obj
+Right internal thoracic vein_FJ1993.obj
+Anterior division of left renal artery_FJ3461.obj
+Right pectineus_FJ1427.obj
+Left lateral basal segmental vein_FJ2951.obj
+Left apical segmental vein_FJ2936.obj
+Right palmar metacarpal vein_FJ2350.obj
+Superficial dorsal vein of penis_FJ2208.obj
+Right iliocostalis thoracis_FJ1528.obj
+Inferior phrenic vein_FJ3450.obj
+Distal phalanx of left thumb_FJ3188.obj
+Right tensor veli palatini_FJ2760.obj
+Lateral branch of right superior segmental artery_FJ2992.obj
+Right internal capsule_FJ1751.obj
+Left anterior circumflex humeral artery_FJ2212.obj
+Left subcostal vein_FJ1987.obj
+Left extensor pollicis brevis_FJ1494M.obj
+Right soleus_FJ1437.obj
+Posterior part of right posterior segmental artery_FJ2970.obj
+Middle colic vein_FJ3543.obj
+Tarsal plate of left upper eyelid_FJ1324.obj
+Right medial basal segmental vein_FJ3055.obj
+Right tenth rib_FJ3330.obj
+Lateral proper palmar digital artery of left ring finger_FJ2335.obj
+Right sixth costal cartilage_FJ3343.obj
+Right superior segmental vein_FJ3052.obj
+Right suprascapular vein_FJ2302.obj
+Right superficial dorsal vein of penis_FJ3637.obj
+Left lateral cuneiform bone_FJ3267.obj
+Proximal part of ileum_FJ2604.obj
+Left apical segmental vein_FJ2964.obj
+Right inferior phrenic artery_FJ3624.obj
+Right vocal ligament_FJ2805.obj
+Ascending colon_FJ2566.obj
+Abductor digiti minimi of right foot_FJ1390.obj
+Ascending aorta_FJ3413.obj
+Left anterior segmental artery_FJ2907.obj
+Right lateral ventricle_FJ1814.obj
+Right deep femoral vein_FJ2135.obj
+Artery of right precentral sulcus_FJ1669.obj
+Posterior cusp of pulmonary valve_FJ2427.obj
+Azygos vein_FJ3416.obj
+Medial head of left gastrocnemius_FJ1397M.obj
+Medial segmental bronchial tree_FJ2506.obj
+_FJ1550.obj
+Left digastric_FJ1555.obj
+Superior branch of right superior segmental artery_FJ2997.obj
+Trunk of right coronary artery_FJ2723.obj
+Left palmar metacarpal vein_FJ2238.obj
+Coronary sinus_FJ2655.obj
+Anterior inferior segmental tributary of middle hepatic vein_FJ3083.obj
+Apical part of right posterior segmental artery_FJ2968.obj
+Left recurrent interosseous artery_FJ2245.obj
+Ileal vein_FJ3438.obj
+Set of perforating veins_FJ2100.obj
+Distal phalanx of left big toe_FJ3182.obj
+Right lateral thyrohyoid ligament_FJ2797.obj
+Left main bronchus_FJ2450.obj
+Left medial basal segmental artery_FJ2884.obj
+Middle phalanx of right little finger_FJ3304.obj
+Right gluteus medius_FJ1419.obj
+Right gluteus maximus_FJ1418.obj
+Caudate lobe branch of right hepatic artery_FJ1916.obj
+Posterior part of right posterior segmental artery_FJ2971.obj
+Left descending genicular artery_FJ2069.obj
+Posterior interventricular branch of right coronary artery_FJ2696.obj
+Posterior vein of left ventricle_FJ2712.obj
+Left coracobrachialis_FJ1488M.obj
+Right amygdala_FJ1829.obj
+Right palmaris longus_FJ1502.obj
+Right pisiform_FJ3382.obj
+Left thalamus_FJ1782.obj
+Skin_FJ2810.obj
+Right ascending lumbar vein_FJ3589.obj
+Right superficial palmar arterial arch_FJ2300.obj
+Left levator palpebrae superioris_FJ1306.obj
+Intervertebral disk of fifth cervical vertebra_FJ3219.obj
+Right posterior basal segmental vein_FJ3046.obj
+Left inferior thyroid artery_FJ2210.obj
+Posterior inferior pancreaticoduodenal artery_FJ3546.obj
+Right third metacarpal bone_FJ3354.obj
+Left colic vein_FJ3429.obj
+Caudate lobe branch of right hepatic artery_FJ2386.obj
+Right capitate_FJ3361.obj
+Right fifth costal cartilage_FJ3341.obj
+Splenic artery_FJ3544.obj
+Left axillary artery_FJ2216.obj
+Left sixth costal cartilage_FJ3254.obj
+Anterior superior segmental tributary of right hepatic vein_FJ3121.obj
+Ileocolic vein_FJ3415.obj
+Left first posterior intercostal artery_FJ1973.obj
+Left superior segmental bronchial tree_FJ2484.obj
+Right internal iliac vein_FJ3571.obj
+Left middle suprarenal artery_FJ3472.obj
+Set of anterior intercostal veins_FJ1994.obj
+Left lower second secondary premolar tooth_FJ1257.obj
+Pons_FJ1775.obj
+Right eighth rib_FJ3347.obj
+Brachium of left inferior colliculus_FJ1761.obj
+Right lateral basal segmental bronchial tree_FJ2491.obj
+Left tenth rib_FJ3225.obj
+Eighth thoracic vertebra_FJ3174.obj
+Left fifth metatarsal bone_FJ3253.obj
+Left ophthalmic nerve_FJ1312.obj
+Right rectus capitis anterior_FJ1588.obj
+Left superior segmental bronchial tree_FJ2483.obj
+Taenia mesocolica_FJ2569.obj
+Right ninth rib_FJ3348.obj
+Tuber cinereum_FJ1828.obj
+Left inferior frontal gyrus_FJ1744.obj
+Ureteric segment of right renal artery_FJ3582.obj
+Ulnar head of left pronator teres_FJ1516M.obj
+Right lateral occipital artery_FJ1687.obj
+Right opponens pollicis_FJ1501.obj
+Sigmoid artery_FJ3638.obj
+Left anterior choroidal artery_FJ1658M.obj
+Left dorsal artery of penis_FJ3496.obj
+Trochlea of right superior oblique_FJ1380.obj
+Left axillary vein_FJ2217.obj
+Left longissimus capitis_FJ1533M.obj
+Appendix_FJ2565.obj
+Left ureter_FJ3144.obj
+Right superior segmental bronchial tree_FJ2499.obj
+Right lateral basal segmental bronchial tree_FJ2455.obj
+First lumbrical of left foot_FJ1383M.obj
+Intervertebral disk_FJ3211.obj
+Left superior segmental artery_FJ2889.obj
+Left costocervical trunk_FJ2224.obj
+Left rhomboid major_FJ1536M.obj
+Distal part of ileum_FJ2593.obj
+Proximal part of ileum_FJ2601.obj
+Right posterior segmental vein_FJ3025.obj
+Left vocal ligament_FJ2787.obj
+First posterior ventricular branch of right coronary artery_FJ2716.obj
+Inferior segmental branch of right renal artery_FJ2043.obj
+Posteromedial central branch of left posterior cerebral artery_FJ1721M.obj
+Left palatopharyngeus_FJ2743.obj
+Right coccygeus_FJ2547.obj
+Inferior phrenic vein_FJ3449.obj
+Right lobe branch of right hepatic artery_FJ2394.obj
+Check ligament of left medial rectus_FJ1292.obj
+Right posterior segmental bronchial tree_FJ2458.obj
+Anterior part of lateral segmental vein_FJ3034.obj
+Left major alar cartilage_FJ2555.obj
+Left fifth rib_FJ3232.obj
+Left lateral basal segmental bronchial tree_FJ2533.obj
+Anterior division of right renal artery_FJ3562.obj
+Right intermediate cuneiform bone_FJ3370.obj
+Right hippocampus_FJ1807.obj
+Proper palmar digital vein of right little finger_FJ2351.obj
+Habenula_FJ1743.obj
+Deltoid branch of left thoraco-acromial artery_FJ2230.obj
+Left inferior phrenic artery_FJ3516.obj
+Right obturator vein_FJ3612.obj
+Ascending part of right trapezius_FJ1520.obj
+Left palmaris longus_FJ1502M.obj
+Fourth ventricle_FJ1731.obj
+Left anterior tibial artery_FJ2065.obj
+Right external oblique_FJ1452.obj
+Pulmonary trunk_FJ2966.obj
+Right apical segmental bronchial tree_FJ2523.obj
+Left flexor carpi radialis_FJ1496M.obj
+Right subscapularis_FJ1504.obj
+Second plantar interosseous of left foot_FJ1386M.obj
+Lumbar artery_FJ3632.obj
+Intervertebral disk of eighth thoracic vertebra_FJ3207.obj
+Right first posterior intercostal artery_FJ1939.obj
+Descending branch of left lateral circumflex femoral artery_FJ2063.obj
+Left posterior segmental bronchial tree_FJ2447.obj
+Right anterior parietal artery_FJ1667.obj
+Lateral branch of right pontine artery_FJ1684.obj
+Right marginal vein_FJ2729.obj
+Right corniculate cartilage_FJ2793.obj
+Medial head of right flexor hallucis brevis_FJ1396.obj
+Tributary of plantar venous arch_FJ2160.obj
+Intervertebral disk of fourth cervical vertebra_FJ3218.obj
+Medial inferior segmental tributary of middle hepatic vein_FJ3085.obj
+Left flexor accessorius_FJ1412M.obj
+Left lateral basal segmental bronchial tree_FJ2532.obj
+Right rhomboid major_FJ1536.obj
+Atlas_FJ3176.obj
+Right upper second secondary molar tooth_FJ1275.obj
+Left subscapular vein_FJ2247.obj
+Left third costal cartilage_FJ3245.obj
+Right pericallosal artery_FJ1699.obj
+Right lacrimal gland_FJ1350.obj
+Left abductor hallucis_FJ1400M.obj
+Right dorsal carpal branch of ulnar artery_FJ2288.obj
+Lateral superior tributary of left hepatic biliary tree_FJ3090.obj
+Left superior segmental bronchial tree_FJ2485.obj
+Left posterior inferior cerebellar artery_FJ1704M.obj
+Artery of left precentral sulcus_FJ1669M.obj
+Proximal phalanx of right thumb_FJ3327.obj
+Left anterior segmental artery_FJ2904.obj
+Left marginal vein_FJ2703.obj
+Right coracobrachialis_FJ1488.obj
+Right fibula_FJ3366.obj
+Left superior pulmonary vein_FJ2933.obj
+Left superior segmental artery_FJ2893.obj
+Humeral head of left pronator teres_FJ1474M.obj
+Long head of right biceps brachii_FJ1478.obj
+Right extensor carpi radialis longus_FJ1490.obj
+Lateral proper palmar digital artery of right little finger_FJ2368.obj
+Lateral inferior segmental branch of left portal vein_FJ3125.obj
+Left lateral basal segmental artery_FJ2922.obj
+Left anterior tibial recurrent artery_FJ2066.obj
+Right iris_FJ1348.obj
+Set of dorsal digital arteries_FJ2346.obj
+Hyo-epiglottic ligament_FJ2771.obj
+Medial inferior tributary of left hepatic biliary tree_FJ3103.obj
+Left semimembranosus_FJ1435M.obj
+Right subclavius_FJ1460.obj
+Set of palmar interossei of left hand_FJ1511M.obj
+Left thalamoperforating artery_FJ1720M.obj
+Precommunicating part of right posterior cerebral artery_FJ1723.obj
+Posterior superior tributary of right hepatic biliary tree_FJ3109.obj
+Medial head of left triceps brachii_FJ1480M.obj
+_FJ1549.obj
+Right infraspinatus muscle_FJ1500.obj
+Superior lingular bronchial tree_FJ2478.obj
+Apical part of right posterior segmental artery_FJ2969.obj
+Anterior cusp of aortic valve_FJ2435.obj
+Right posterior segmental bronchial tree_FJ2519.obj
+Long head of right triceps brachii_FJ1479.obj
+Glans penis_FJ3134.obj
+Left rectus femoris_FJ1433M.obj
+Distal part of jejunum_FJ2615.obj
+Right anterior segmental vein_FJ3029.obj
+Anterior part of left superior temporal gyrus_FJ1837.obj
+Intervertebral disk of second thoracic vertebra_FJ3223.obj
+Right prefrontal artery_FJ1724.obj
+Right sartorius_FJ1434.obj
+Set of anterior intercostal veins_FJ1985.obj
+Left medial cuneiform bone_FJ3271.obj
+Posterior branch of right anterior segmental artery_FJ2981.obj
+Left femoral artery_FJ2074.obj
+Proper palmar digital vein of right ring finger_FJ2359.obj
+Lateral segmental bronchial tree_FJ2503.obj
+Left lateral plantar artery_FJ2079.obj
+Right lateral frontobasal artery_FJ1685.obj
+Left posterior inferior cerebellar artery_FJ1710M.obj
+Right popliteal artery_FJ2170.obj
+Right radius_FJ3349.obj
+Left omohyoid_FJ1565.obj
+Left flexor digitorum brevis_FJ1413M.obj
+Right posterior tibial artery_FJ2172.obj
+Left temporal bone_FJ3281.obj
+Fifth thoracic vertebra_FJ3169.obj
+Plantar metatarsal artery_FJ2206.obj
+Right superior segmental bronchial tree_FJ2495.obj
+Apical part of right apical segmental artery_FJ3015.obj
+Right lateral basal segmental vein_FJ3062.obj
+Left external iliac vein_FJ3522.obj
+Inferior lingular vein_FJ2935.obj
+Pubic hair_FJ2815.obj
+Left internal capsule_FJ1750.obj
+Dorsal carpal branch of left radial artery_FJ2231.obj
+Left posterior segmental artery_FJ2911.obj
+Circumflex branch of left coronary artery_FJ2652.obj
+Left suprascapular artery_FJ2251.obj
+Left third rib_FJ3230.obj
+Lateral superior segmental tributary of left hepatic vein_FJ3098.obj
+Right oblique arytenoid_FJ2798.obj
+Distal part of ileum_FJ2592.obj
+Right dorsal artery of penis_FJ3592.obj
+Medial superior tributary of left hepatic biliary tree_FJ3105.obj
+Distal phalanx of left third toe_FJ3180.obj
+Sphenoid part of right middle cerebral artery_FJ1692.obj
+External anal sphincter_FJ1450M.obj
+Right anterior tibial recurrent artery_FJ2131.obj
+Left frontal nerve_FJ1290.obj
+Right rectus capitis lateralis_FJ1591.obj
+Trunk of left thoraco-acromial artery_FJ2252.obj
+Left vastus medialis_FJ1443M.obj
+Lumbar vein_FJ3631.obj
+Left piriformis_FJ1428M.obj
+Distal part of ileum_FJ2597.obj
+Sesamoid bone of right foot_FJ3372.obj
+Medial branch of left pontine artery_FJ1689M.obj
+Circumflex branch of left coronary artery_FJ2650.obj
+Insular part of right middle cerebral artery_FJ1694.obj
+Left anterior segmental bronchial tree_FJ2443.obj
+Left small saphenous vein_FJ2121.obj
+Tentorium cerebelli_FJ1843.obj
+Superior lingular artery_FJ2899.obj
+Corpus callosum_FJ1742.obj
+Right supraspinatus_FJ1506.obj
+Right colic vein_FJ3591.obj
+Postcommunicating part of right posterior cerebral artery_FJ1714.obj
+Right posterior circumflex humeral artery_FJ2291.obj
+Middle temporal branch of left lateral occipital artery_FJ1680M.obj
+Right longissimus thoracis_FJ1535.obj
+Left hyoglossus_FJ2739.obj
+Ascending part of left trapezius_FJ1520M.obj
+Right small saphenous vein_FJ2176.obj
+Trunk of left coronary artery_FJ2737.obj
+Right eleventh rib_FJ3331.obj
+Proper palmar digital vein of left index finger_FJ2325.obj
+Right anterior cusp of pulmonary valve_FJ2434.obj
+Inferior segmental branch of left renal artery_FJ2049.obj
+Left brachiocephalic vein_FJ3482.obj
+Right posterior basal segmental bronchial tree_FJ2457.obj
+Distal part of jejunum_FJ2618.obj
+Posterior interventricular branch of right coronary artery_FJ2695.obj
+Right twelfth rib_FJ3332.obj
+Right anterior segmental bronchial tree_FJ2509.obj
+Posterior branch of lateral segmental artery_FJ2984.obj
+Splenic artery_FJ2562.obj
+Inferior branch of medial segmental artery_FJ2988.obj
+Transverse part of right trapezius_FJ1554.obj
+Left superficial palmar venous arch_FJ2249.obj
+Posterior inferior tributary of right hepatic biliary tree_FJ3108.obj
+Set of plantar digital veins_FJ2120.obj
+Left extensor digiti minimi_FJ1491M.obj
+Posterior branch of right anterior segmental artery_FJ2974.obj
+Right middle temporal gyrus_FJ1790.obj
+Right posterior inferior cerebellar artery_FJ1704.obj
+Right posterior inferior cerebellar artery_FJ1702.obj
+Middle phalanx of left little toe_FJ3298.obj
+Posteromedial branch of left callosomarginal artery_FJ1722M.obj
+Right first metacarpal bone_FJ3350.obj
+Proximal phalanx of right third toe_FJ3320.obj
+Anterior branch of right anterior segmental artery_FJ2979.obj
+Distal part of ileum_FJ2590.obj
+Right posterior basal segmental bronchial tree_FJ2486.obj
+Left ulnar artery_FJ2258.obj
+Rectum_FJ2571.obj
+Left fibularis tertius_FJ1411M.obj
+Ascending branch of left colic artery_FJ3399.obj
+Cavity of right atrium_FJ2424.obj
+Interpeduncular fossa_FJ1763.obj
+Great pancreatic artery_FJ3433.obj
+_FJ1719.obj
+Left maxilla_FJ3269.obj
+Right anterior segmental bronchial tree_FJ2453.obj
+Right angular gyrus_FJ1733.obj
+Right posterior inferior cerebellar artery_FJ1708.obj
+Right musculophrenic vein_FJ1996.obj
+Left vitreous body_FJ1331.obj
+Anterior leaflet of mitral valve_FJ2420.obj
+Left lateral sacral vein_FJ3526.obj
+Right flexor accessorius_FJ1412.obj
+Pharyngeal raphe_FJ2749.obj
+Long head of right biceps femoris_FJ1395.obj
+Right hepatic vein_FJ2416.obj
+Intervertebral disk of seventh cervical vertebra_FJ3221.obj
+Orbital gyrus_FJ1793.obj
+Anterior division of left renal artery_FJ3462.obj
+Right fibularis longus_FJ1410.obj
+Artery of central sulcus_FJ1664M.obj
+Posterior division of right renal artery_FJ3574.obj
+Right inferior thyroid artery_FJ2209.obj
+Left superior parietal lobule_FJ1835.obj
+Left anconeus_FJ1485M.obj
+Superior branch of medial segmental artery_FJ2990.obj
+Set of plantar digital veins_FJ2175.obj
+Hypothalamus_FJ1760.obj
+Right external iliac artery_FJ3567.obj
+Proximal phalanx of left fourth toe_FJ3312.obj
+Right superior oblique_FJ1373.obj
+Anterior division of right renal artery_FJ3558.obj
+Left fibula_FJ3260.obj
+Right anterior segmental bronchial tree_FJ2514.obj
+Left superior segmental bronchial tree_FJ2480.obj
+Right basilic vein_FJ2270.obj
+Left iliacus_FJ1422M.obj
+Left posterior cusp of aortic valve_FJ2426.obj

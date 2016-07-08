@@ -1,0 +1,126 @@
+[
+    {
+        "vtkFileName": "Model_142_anterior_commissure.vtk", 
+        "synonyms": "", 
+        "name": "anterior commissure", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_15_fourth_ventricle.vtk", 
+        "synonyms": [
+            "4th ventricle"
+        ], 
+        "name": "fourth ventricle", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_19_aqueduct.vtk", 
+        "synonyms": [
+            "aqueduct of sylvius"
+        ], 
+        "name": "aqueduct of sylvius", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_24_third_ventricle.vtk", 
+        "synonyms": [
+            "3rd ventricle"
+        ], 
+        "name": "third ventricle", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_3004_corpus_callosum.vtk", 
+        "synonyms": [
+            "genu", 
+            "genu of corpus callosum", 
+            "genu corporis callosi"
+        ], 
+        "name": "genu of corpus callosum", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_3011_adenohypophysis.vtk", 
+        "synonyms": [
+            "anterior lobe of pituitary"
+        ], 
+        "name": "adenohypophysis", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_3012_neurohypophysis.vtk", 
+        "synonyms": [
+            "posterior lobe of pituitary", 
+            "neural lobe of pituitary"
+        ], 
+        "name": "neurohypophysis", 
+        "containers": [
+            "circumventricular organ"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_35_pons.vtk", 
+        "synonyms": "", 
+        "name": "pons", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_61_medulla_oblongata.vtk", 
+        "synonyms": [
+            "human medulla", 
+            "myelencephalon", 
+            "medulla"
+        ], 
+        "name": "medulla oblongata of human", 
+        "containers": [
+            "medulla oblongata"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_72_pineal_body.vtk", 
+        "synonyms": [
+            "corpus pineale", 
+            "epiphysis", 
+            "conarium", 
+            "epiphysis cerebri", 
+            "pineal gland"
+        ], 
+        "name": "pineal body", 
+        "containers": [
+            "circumventricular organ"
+        ], 
+        "subComponents": ""
+    }, 
+    {
+        "vtkFileName": "Model_85_optic_chiasm.vtk", 
+        "synonyms": "", 
+        "name": "optic chiasm", 
+        "containers": [
+            "regional part of brain"
+        ], 
+        "subComponents": ""
+    }
+]
