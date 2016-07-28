@@ -25,4 +25,4 @@ try:
     
     sock.close()
 except Exception as err:
-    print("client error: " + str(err))
+    print("client error: " + str(err)

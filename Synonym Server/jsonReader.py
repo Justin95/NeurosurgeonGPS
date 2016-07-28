@@ -48,4 +48,3 @@ class JsonReader:
                 jsonDict[synonym] = entry
         self.brainData = jsonDict
         return jsonDict
-
