@@ -2,27 +2,30 @@
     This script converts files from the old neurolex format to a new json based format.
     It also uses a name matching strategy to try and match the file to a vtk model, not 100% effective.
     The matching will need to be improved.
-    The file paths are currently hardcoded, not a huge issue as this script will only need to convert files once.
+
+    @author Justin Bonner
 """
 
 import json
 import os.path
 
 #the file path to the folder containing neurolex text files
-NEUROLEX_FOLDER_PATH = "/home/justin/Documents/pythonProjects/JsonGenerator/neurolex"
+NEUROLEX_FOLDER_PATH = "neurolex" #relative file path, neurolex folder is in the same folder as this script
 
 #the file path to the folder containing vtk model files
-VTK_MODELS_FOLDER_PATH = "/home/justin/Documents/pythonProjects/JsonGenerator/models"
+VTK_MODELS_FOLDER_PATH = "models"#relative file path, models folder is in the same folder as this script
 
 #the file path in which the Json will be written
-JSON_PATH = "/home/justin/Documents/pythonProjects/JsonGenerator"
+JSON_PATH = ""#relative file path, put the json into the same directory this script is in
 
 #the minimum similarity between a neurolex name and a vtk file name for identification
 MIN_SIMILARITY = .75
 
-#reads the neurolex text files and puts each line in a list
+"""
+    This function reads the neurolex text files and puts each line in a list
+"""
 def getNeurolexList():
-    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" #neurolex text files are A.txt, B.txt etc.
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" #neurolex text files are A.txt, B.txt etc, this is a short cut.
     neurolexList = list()
     for i in range (len(alphabet)):
         fileName = NEUROLEX_FOLDER_PATH + "/" + alphabet[i] + ".txt"
@@ -37,8 +40,9 @@ def getNeurolexList():
 #a list of the raw sources of the neurolex text files appended together in alphabetical order
 RAW_NEUROLEX_LIST = getNeurolexList()
 
-
-#create a dictionary mapping string brain part names to the line number in which they appear in RAW_NEUROLEX_LIST
+"""
+    create a dictionary mapping string brain part names to the line number in which they appear in RAW_NEUROLEX_LIST
+"""
 def createNeurolexDictionary():
     neurolexDictionary = dict()
     for i in range (len(RAW_NEUROLEX_LIST)):
@@ -58,13 +62,25 @@ def createNeurolexDictionary():
 #a dictionary mapping string brain part names to their index in RAW_NEUROLEX_LIST
 NEUROLEX_DICTIONARY = createNeurolexDictionary()
 
-#returns a list of the model file names in the specified directory
+"""
+    This function returns a list of the model file names in the specified directory.
+    It raises an IO Error if there is no such directory
+"""
 def getVtkModelsList(filePath):
     if not os.path.exists(filePath):
-        raise FileNotFoundError("File not found:  " + filePath)
+        raise IOError("File not found:  " + filePath)
     return os.listdir(filePath)
 
 
+"""
+    This function returns the estimated Neurolex name match for a given vtk file name.
+    If no match satisfies MIN_SIMILARITY match requirment, then an empty string is returned.
+
+    For future improvements try creating a dictionary with a value for each word used in
+    all the neurolex and vtk names combinded, the more freqent a word in both lists the less it is worth in a match.
+    ex: 'left' is a common word used so it should be worth less matching points when both a vtk file name
+    and a neurolex name contain it.
+"""
 def estimateNeurolexName(vtkFileName):
     nameAsList = vtkFileName.replace(".vtk", "").split("_")
     del nameAsList[0]
@@ -79,15 +95,26 @@ def estimateNeurolexName(vtkFileName):
         totalSimilarity = 0
         for namePart in nameAsList:
             if namePart in neurolexNameList:
-                totalSimilarity += 1
-        similarity = totalSimilarity / len(nameAsList)
+                totalSimilarity += len(namePart) / float(len(neurolexName))
+        similarity = totalSimilarity / len(neurolexNameList) # or try len(nameAsList)
         if(similarity > MIN_SIMILARITY) and (similarity > estimateSimilarity):
             estimate = neurolexName
             estimateSimilarity = similarity
     return estimate
 
-#creates a json file with the given information
-def createJson(name, synonyms, vtkFileName, containers, subComponents):
+"""
+    This function creates a json file with the given list of dictionaries
+"""
+def createJson(listOfDictionaries):
+    stringToWrite = json.dumps(listOfDictionaries, indent = 4)
+    f = open(JSON_PATH + "brainParts.json", "a")# "a" for append mode
+    f.write(stringToWrite)
+    f.close()
+
+"""
+    This function creates a dictionary out of each of its parameters
+"""
+def createDictionary(name, synonyms, vtkFileName, containers, subComponents):
     toWrite = {
         "name"          : name,
         "synonyms"      : synonyms,
@@ -95,12 +122,11 @@ def createJson(name, synonyms, vtkFileName, containers, subComponents):
         "containers"    : containers,
         "subComponents" : subComponents
     }
-    stringToWrite = json.dumps(toWrite, indent = 4)
-    f = open(JSON_PATH + "/" + "brainParts.json", "a")# "a" for append mode
-    f.write(stringToWrite)
+    return toWrite
 
-
+#utility functions are all defined, they are used to make the json here
 vtkModels = getVtkModelsList(VTK_MODELS_FOLDER_PATH)
+dictionaryList = list()
 for model in vtkModels:
     name = estimateNeurolexName(model)
     if name == "":
@@ -115,4 +141,8 @@ for model in vtkModels:
     subComponents = RAW_NEUROLEX_LIST[line + 11].replace("\t11. has part of : ", "").split(", ")
     if subComponents[0] == "na":
         subComponents = ""
-    createJson(name, synonyms, model, containers, subComponents)
+    dictionaryList.append(createDictionary(name, synonyms, model, containers, subComponents))
+print(str(len(dictionaryList)) + " matches found")
+createJson(dictionaryList)
+
+
